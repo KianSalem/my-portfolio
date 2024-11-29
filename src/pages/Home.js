@@ -2,8 +2,10 @@
 import React from 'react';
 import styled from 'styled-components';
 
+// Example in Home.js
 const HomeContainer = styled.div`
-  /* Add your styling here */
+  background-color: ${({ theme }) => (theme === 'light' ? '#fff' : '#333')};
+  color: ${({ theme }) => (theme === 'light' ? '#000' : '#fff')};
 `;
 
 function Home() {
