@@ -16,6 +16,12 @@ function Navbar() {
         <li>
           <Link to="/edm-analysis">EDM Music Analysis</Link>
         </li>
+        <li>
+          <Link to="/loan-analysis">Loan Redlining Analysis</Link>
+        </li>
+        <li>
+          <Link to="/salary-analysis">Salary Analysis</Link>
+        </li>
       </ul>
     </nav>
   );

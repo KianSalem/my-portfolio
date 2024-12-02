@@ -9,15 +9,18 @@ function About() {
       <div className="about-content">
         <h2>About Me</h2>
         <p>
-          My passion for music has been a driving force throughout my life.
-          Starting with the trumpet in 6th grade, I expanded my musical talents to guitar and piano,
-          which I still play today. This love for music evolved into DJing and producing my own
-          electronic music.
+          I have experience in operations and data analytics at <strong>Scale AI</strong>. 
+        </p>
+          <p>
+          I thrive at the
+          intersection of creativity and analytics, continuously seeking new ways to take a deeper dive into subjects.
+          While studying Journalism in college, <i>Reporting With Data</i> quickly became my favorite class. Leveraging R & SQL
+          to combine my interests in data and storytelling was an experience that heavily influenced my career path.
         </p>
         <p>
-          Professionally, I have experience in operations and data analytics at Scale AI. I thrive at the
-          intersection of creativity and analytics, continuously seeking new ways to blend my
-          interests in music, data, and language.
+          My passion for analyzing data and discovering trends has been a driving force throughout my life.
+          Starting with scraping through large .HEX files when I was a kid in order to modify my video games,
+          this love for data has evolved into a powerful tool I use in my career, a way to express myself with fun projects, and even creating formulas for producing my own music.
         </p>
         
         <h3>Contact Information</h3>

@@ -8,10 +8,14 @@ function Home() {
     <div className="home">
       <div className="home-content">
         <h1>Welcome! I'm Kian</h1>
-        <p>Discover my passion for music and data analytics</p>
+        <p>Discover my interests through data analytics projects</p>
         <div className="home-buttons">
-          <Link to="/about" className="btn">About Me</Link>
           <Link to="/edm-analysis" className="btn">EDM Music Analysis</Link>
+          <Link to="/loan-analysis" className="btn">Loan Redlining Analysis</Link>
+          <Link to="/salary-analysis" className="btn">Salary Analysis</Link>
+          {/* <p> </p>
+          <p>My story</p>
+          <Link to="/about" className="btn">About Me</Link> */}
         </div>
       </div>
     </div>
