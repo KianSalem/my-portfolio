@@ -180,7 +180,7 @@ function EDMAnalysis() {
     While EDM is known for its electronic sounds, acoustic elements can add depth and diversity. Identifying when acousticness peaked can show shifts towards organic sounds.
   </p>
   <p>
-    <strong>Finding:</strong> The year <strong>2013</strong> had the highest average acousticness in EDM tracks, suggesting a period of experimentation with more acoustic elements.
+    <strong>Finding:</strong> The year <strong>2020</strong> had the highest average acousticness in EDM tracks, suggesting a period of experimentation with more acoustic elements.
   </p>
   <div className="visualization">
     {/* Embed Power BI Visualization 7 */}
@@ -188,7 +188,7 @@ function EDMAnalysis() {
       title="Average Acousticness of EDM Tracks by Year"
       width="800"
       height="250"
-      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
+      src="https://app.powerbi.com/view?r=eyJrIjoiZDE2M2Q1OTMtZmY4ZS00ZDNmLWJiMTYtNGE4YWYxYzBiZDhlIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ9"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -202,7 +202,7 @@ function EDMAnalysis() {
     Instrumentalness measures the absence of vocals in tracks. Analyzing its variation over the years can highlight trends in the inclusion of vocals in EDM.
   </p>
   <p>
-    <strong>Finding:</strong> There has been a <strong>decrease in instrumentalness</strong> from 2007 to 2022, indicating a trend towards more vocal-heavy EDM tracks.
+    <strong>Finding:</strong> There has been an overall <strong>decrease in instrumentalness</strong> from 2007 to 2022, indicating a trend towards more vocal-heavy EDM tracks.
   </p>
   <div className="visualization">
     {/* Embed Power BI Visualization 8 */}
@@ -210,7 +210,7 @@ function EDMAnalysis() {
       title="Average Instrumentalness of EDM Tracks Over the Years"
       width="800"
       height="250"
-      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
+      src="https://app.powerbi.com/view?r=eyJrIjoiNmY5MWRmZmMtZTI2NS00YmQ4LTg0ZjEtMzMyNGI0OTU4YjNhIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ9"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -232,7 +232,7 @@ function EDMAnalysis() {
       title="Average Track Duration by Year"
       width="800"
       height="250"
-      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
+      src="https://app.powerbi.com/view?r=eyJrIjoiMmNiMGNiNGUtYmMwNC00MWRhLThjMzEtMGQxMTRjZjE2ZTY0IiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ9"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -241,20 +241,20 @@ function EDMAnalysis() {
 
 {/* Section 10 */}
 <div className="analysis-item">
-  <h3>10. Duration by Key: Time Signatures in Focus</h3>
+  <h3>10. Energy Meets Emotion: The Dancefloor Mood</h3>
   <p>
-    Exploring how track duration varies by musical key can reveal if certain keys inspire longer compositions.
+    Energy reflects the intensity, while valence indicates the positivity of a track. Examining their relationship can reveal how energetic tracks influence emotional responses.
   </p>
   <p>
-    <strong>Finding:</strong> Tracks in the key of <strong>D minor</strong> have the longest average duration, indicating a tendency for lengthier pieces in this key.
+    <strong>Finding:</strong> There is a <strong>moderate positive correlation</strong> between energy and valence, suggesting that more energetic tracks tend to be perceived as more positive.
   </p>
   <div className="visualization">
     {/* Embed Power BI Visualization 10 */}
     <iframe
-      title="Average Track Duration by Music Key"
+      title="Energy vs. Valence in EDM Tracks"
       width="800"
       height="250"
-      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
+      src="https://app.powerbi.com/view?r=eyJrIjoiNzA4YWQ3ZmEtNGZiYS00ZmYwLTg2ZDItZWUyNGUwYmY0NWFlIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ9"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -263,42 +263,20 @@ function EDMAnalysis() {
 
 {/* Section 11 */}
 <div className="analysis-item">
-  <h3>11. Energy Meets Emotion: The Dancefloor Mood</h3>
-  <p>
-    Energy reflects the intensity, while valence indicates the positivity of a track. Examining their relationship can reveal how energetic tracks influence emotional responses.
-  </p>
-  <p>
-    <strong>Finding:</strong> There is a <strong>moderate positive correlation</strong> between energy and valence, suggesting that more energetic tracks tend to be perceived as more positive.
-  </p>
-  <div className="visualization">
-    {/* Embed Power BI Visualization 11 */}
-    <iframe
-      title="Energy vs. Valence in EDM Tracks"
-      width="800"
-      height="250"
-      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
-      frameBorder="0"
-      allowFullScreen={true}
-    ></iframe>
-  </div>
-</div>
-
-{/* Section 12 */}
-<div className="analysis-item">
-  <h3>12. Live Vibes: Liveness and Listener Appeal</h3>
+  <h3>11. Live Vibes: Liveness and Listener Appeal</h3>
   <p>
     Liveness measures the presence of a live audience or ambiance. Analyzing its effect on popularity can show if live elements enhance listener appeal.
   </p>
   <p>
-    <strong>Finding:</strong> Tracks with higher liveness tend to have <strong>higher popularity</strong>, indicating that live-feel tracks resonate more with audiences.
+    <strong>Finding:</strong> Tracks with higher liveness tend to have <strong>lower popularity</strong>, indicating that live-feel tracks resonate less with audiences.
   </p>
   <div className="visualization">
-    {/* Embed Power BI Visualization 12 */}
+    {/* Embed Power BI Visualization 11 */}
     <iframe
       title="Liveness vs. Popularity in EDM Tracks"
       width="800"
       height="250"
-      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
+      src="https://app.powerbi.com/view?r=eyJrIjoiOWRlYjJkZGUtYmNhYy00NTk4LTkxYWYtZTljODA3ODkzYTFiIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ9"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
