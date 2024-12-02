@@ -1,26 +1,26 @@
 // src/App.js
-import React, { useState } from 'react';
+import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home';
-import Projects from './pages/Projects';
-import About from './pages/About';
-import Contact from './pages/Contact';
-import ThemeContext from './ThemeContext';
+import Navbar from './components/Navbar';
+import Home from './components/Home';
+import About from './components/About';
+import EDMAnalysis from './components/EDMAnalysis';
+import Footer from './components/Footer';
+import './styles/App.css';
 
 function App() {
-  const [theme, setTheme] = useState('light');
-
   return (
-    <ThemeContext.Provider value={{ theme, setTheme }}>
     <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
-      </Routes>
+      <div className="app">
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/edm-analysis" element={<EDMAnalysis />} />
+        </Routes>
+        <Footer />
+      </div>
     </Router>
-    </ThemeContext.Provider>
   );
 }
 

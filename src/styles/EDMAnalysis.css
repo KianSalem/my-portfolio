@@ -1,0 +1,49 @@
+/* src/styles/EDMAnalysis.css */
+.edm-analysis {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .edm-analysis h1 {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 30px;
+  }
+  
+  .prologue h2,
+  .analysis-section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .prologue p {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+    line-height: 1.6;
+  }
+  
+  .analysis-item {
+    margin-bottom: 40px;
+  }
+  
+  .analysis-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .analysis-item p {
+    font-size: 1rem;
+    margin-bottom: 15px;
+    line-height: 1.6;
+  }
+  
+  .visualization {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .visualization p {
+    color: #888;
+    font-style: italic;
+  }  
