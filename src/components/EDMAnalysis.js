@@ -35,10 +35,20 @@ function EDMAnalysis() {
           </p>
           <div className="visualization">
             {/* Placeholder for Power BI Visualization */}
-            <p>[Embed Power BI Visualization 1 here]</p>
+            <p>
+                <div className="visualization">
+                    <iframe
+                        title="Average Tempo Over Years"
+                        width="800"
+                        height="250"
+                        src="https://app.powerbi.com/view?r=eyJrIjoiYTZkY2IxNTUtODdmNi00ODlmLWIxYjUtYzllM2IyMTg2MGY3IiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ9"
+                        frameBorder="0"
+                        allowFullScreen="true"
+                    ></iframe>
+                    </div>
+                </p>
           </div>
         </div>
-
         {/* Repeat for each question */}
         
        {/* <!--
