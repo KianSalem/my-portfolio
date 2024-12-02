@@ -114,7 +114,7 @@ function EDMAnalysis() {
     Popularity metrics reveal how well tracks resonate with listeners. Identifying the year with the highest average track popularity can spotlight pivotal moments in EDM's history.
   </p>
   <p>
-    <strong>Finding:</strong> <strong>2018</strong> had the highest average track popularity, suggesting a peak in mainstream acceptance and commercial success for EDM.
+    <strong>Finding:</strong> <strong>2021</strong> had the highest average track popularity, suggesting a peak in mainstream acceptance and commercial success for EDM.
   </p>
   <div className="visualization">
     {/* Embed Power BI Visualization 4 */}
@@ -122,7 +122,7 @@ function EDMAnalysis() {
       title="Average Popularity of EDM Tracks by Year"
       width="800"
       height="250"
-      src="InsertPowerBILink"
+      src="https://app.powerbi.com/view?r=eyJrIjoiZDg0NTM1NjYtM2FiMi00NjE2LWE4YTAtOWU3NzRlNjUxNDE4IiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ9"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -136,7 +136,7 @@ function EDMAnalysis() {
     The key of a track influences its mood and emotional impact. Uncovering the most common key can provide insights into the tonal preferences in EDM production.
   </p>
   <p>
-    <strong>Finding:</strong> The key of <strong>C major</strong> is the most common in EDM tracks, indicating a preference for this versatile and harmonious key.
+    <strong>Finding:</strong> The key of <strong>C# major</strong> is the most common in EDM tracks, indicating a preference for this versatile and harmonious key.
   </p>
   <div className="visualization">
     {/* Embed Power BI Visualization 5 */}
@@ -144,7 +144,7 @@ function EDMAnalysis() {
       title="Distribution of Music Keys in EDM Tracks"
       width="800"
       height="250"
-      src="InsertPowerBILink"
+      src="https://app.powerbi.com/view?r=eyJrIjoiODBjMDAzNjYtNDRmMi00ZGQ0LTg4YTUtOTcxZWI2YmJlZmI3IiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ9"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -158,7 +158,7 @@ function EDMAnalysis() {
     Exploring the relationship between tempo and danceability can reveal whether faster tracks are indeed more suitable for dancing.
   </p>
   <p>
-    <strong>Finding:</strong> There is a <strong>positive correlation</strong> between tempo and danceability, indicating that faster tracks tend to be more danceable in EDM.
+    <strong>Finding:</strong> The most danceable tempo range is between <strong>120 - 130 BPM</strong>, indicating that faster tempo does not always mean more danceable.
   </p>
   <div className="visualization">
     {/* Embed Power BI Visualization 6 */}
@@ -166,7 +166,7 @@ function EDMAnalysis() {
       title="Relationship Between Tempo and Danceability in EDM Tracks"
       width="800"
       height="250"
-      src="InsertPowerBILink"
+      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ9"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -188,7 +188,7 @@ function EDMAnalysis() {
       title="Average Acousticness of EDM Tracks by Year"
       width="800"
       height="250"
-      src="InsertPowerBILink"
+      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -210,7 +210,7 @@ function EDMAnalysis() {
       title="Average Instrumentalness of EDM Tracks Over the Years"
       width="800"
       height="250"
-      src="InsertPowerBILink"
+      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -232,7 +232,7 @@ function EDMAnalysis() {
       title="Average Track Duration by Year"
       width="800"
       height="250"
-      src="InsertPowerBILink"
+      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -254,7 +254,7 @@ function EDMAnalysis() {
       title="Average Track Duration by Music Key"
       width="800"
       height="250"
-      src="InsertPowerBILink"
+      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -276,7 +276,7 @@ function EDMAnalysis() {
       title="Energy vs. Valence in EDM Tracks"
       width="800"
       height="250"
-      src="InsertPowerBILink"
+      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
@@ -298,7 +298,7 @@ function EDMAnalysis() {
       title="Liveness vs. Popularity in EDM Tracks"
       width="800"
       height="250"
-      src="InsertPowerBILink"
+      src="https://app.powerbi.com/view?r=eyJrIjoiZDIxYzcwMDAtNDE3NS00ZWIzLTljMjQtZTgzZTc3ODczNzFkIiwidCI6IjE4MWRmYWQ4LWU1YzQtNDZiNS05ZTJhLTI4MjQwMzc3M2M1YyJ"
       frameBorder="0"
       allowFullScreen={true}
     ></iframe>
