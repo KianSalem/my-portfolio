@@ -7,8 +7,8 @@ function Home() {
   return (
     <div className="home">
       <div className="home-content">
-        <h1>Welcome to My Portfolio</h1>
-        <p>Discover my passion for music and data analytics.</p>
+        <h1>Welcome! I'm Kian</h1>
+        <p>Discover my passion for music and data analytics</p>
         <div className="home-buttons">
           <Link to="/about" className="btn">About Me</Link>
           <Link to="/edm-analysis" className="btn">EDM Music Analysis</Link>

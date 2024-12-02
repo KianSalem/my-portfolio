@@ -1,8 +1,8 @@
 /* src/styles/Home.css */
 .home {
-    /* background-image: url('/images/background.jpg');
+    background-image: url('/public/images/background.jpg');
     background-size: cover;
-    background-position: center; */
+    background-position: center;
     height: calc(100vh - 80px); /* Adjust based on navbar height */
     display: flex;
     align-items: center;
@@ -15,6 +15,7 @@
     background-color: rgba(0, 0, 0, 0.6);
     padding: 50px;
     border-radius: 10px;
+    font-family: system-ui;
   }
   
   .home h1 {
@@ -30,7 +31,7 @@
   .home-buttons .btn {
     margin: 0 10px;
     padding: 15px 30px;
-    background-color: #FFD700;
+    background-color: #8177e9;
     color: #000000;
     text-decoration: none;
     font-weight: bold;
@@ -38,5 +39,8 @@
   }
   
   .home-buttons .btn:hover {
-    background-color: #FFC300;
+    background-color: #67619c;
   }  
+
+  /* #FFD700;
+  #FFC300; */

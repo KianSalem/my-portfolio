@@ -3,14 +3,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #0D0D0D;
+    background-color: #323031;
     padding: 0 20px;
+    font-family: system-ui;
   }
   
   .navbar-logo a {
     color: #FFFFFF;
     font-size: 1.5rem;
     text-decoration: none;
+    font-family: system-ui;
   }
   
   .navbar-links {
@@ -26,8 +28,9 @@
     color: #FFFFFF;
     text-decoration: none;
     font-size: 1rem;
+    font-family: system-ui;
   }
   
   .navbar-links a:hover {
-    color: #FFD700;
+    color: #dddbcb;
   }  

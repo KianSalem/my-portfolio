@@ -5,7 +5,7 @@ import '../styles/Footer.css';
 function Footer() {
   return (
     <footer className="footer">
-      <p>&copy; 2024 Kian Salem. All rights reserved.</p>
+      <p></p>
     </footer>
   );
 }

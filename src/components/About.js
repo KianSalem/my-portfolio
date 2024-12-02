@@ -21,8 +21,8 @@ function About() {
           interests in music and data.
         </p>
         <h3>Contact Information</h3>
-        <p>Email: <a href="mailto:salemkian1@gmail.com">your-email@example.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/salemkian" target="_blank" rel="noopener noreferrer">My LinkedIn Profile</a></p>
+        <p>Email: <a href="mailto:salemkian1@gmail.com">salemkian1@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/salemkian" target="_blank" rel="noopener noreferrer">Kian Salem</a></p>
       </div>
     </div>
   );
