@@ -6,9 +6,9 @@ import '../styles/LoanAnalysis.css';
 function LoanAnalysis() {
   return (
     <div className="loan-analysis">
-      <h1>Loan Analysis</h1>
+      <h1>Loan Redlining Disparity Analysis</h1>
       <p>
-        Coming soon - work in progress. In the meantime, check out my completed project below.
+        Coming soon - work in progress. In the meantime, check out my completed projects below.
       </p>
       <Link to="/edm-analysis">
         <button className="cta-button">Go to EDM Analysis</button>

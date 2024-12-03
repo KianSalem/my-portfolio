@@ -19,8 +19,8 @@ function About() {
         </p>
         <p>
           My passion for analyzing data and discovering trends has been a driving force throughout my life.
-          Starting with scraping through large .HEX files when I was a kid in order to modify my video games,
-          this love for data has evolved into a powerful tool I use in my career, a way to express myself with fun projects, and even creating formulas for producing my own music.
+          Starting with scraping through large .HEX files when I was a kid in order to modify video games,
+          this love for data has evolved into a powerful tool I use in my career, a way to express myself with fun projects, and even as a method for creating formulas for producing music.
         </p>
         
         <h3>Contact Information</h3>

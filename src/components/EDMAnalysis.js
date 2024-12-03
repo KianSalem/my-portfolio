@@ -13,7 +13,7 @@ function EDMAnalysis() {
 
   return (
     <div className="edm-analysis">
-      <h1>Electronic Music Analysis</h1>
+      <h1>Electronic Music Trends Analysis</h1>
 
       {/* Prologue */}
       <div className="prologue">
@@ -26,10 +26,10 @@ function EDMAnalysis() {
           over the years.
         </p>
         <p>
-          Using a Python script, I called Spotify’s API to collect data on nearly 1,000 electronic
-          music hits from 2007 to 2022, exporting them into a CSV file. After importing the data
-          into my AWS SQL server and cleaning it, I formulated several questions to analyze trends
-          and patterns. Leveraging Power BI, I created visualizations to tell the story of EDM's
+          Using a <strong>Python</strong> script, I called Spotify’s <strong>API</strong> to collect data on nearly 1,000 electronic
+          music hits from 2007 to 2022, exporting them into a <strong>CSV</strong> file. After importing the data
+          into my <strong>AWS SQL Server</strong> and cleaning it, I formulated several questions to analyze trends
+          and patterns. Leveraging <strong>Power BI</strong>, I created visualizations to tell the story of EDM's
           evolution.
         </p>
       </div>
@@ -281,6 +281,25 @@ function EDMAnalysis() {
       allowFullScreen={true}
     ></iframe>
   </div>
+  {/* Conclusion */}
+  <div className="prologue">
+        <h2>Key Takeways</h2>
+        <p>
+        This analysis of nearly 1,000 EDM tracks from 2007 to 2022 highlights significant trends in the genre's evolution.
+        Notably, the average tempo has gradually decreased, moving towards more relaxed compositions, while danceability 
+        peaked in 2008, emphasizing groove-oriented production. Despite these changes, loudness levels have remained 
+        consistent, maintaining the genre's signature sound. The dominance of the C♯ major key and the shift towards more 
+        vocal-heavy tracks indicate a preference for harmonically rich and emotionally engaging music, contributing 
+        to EDM's broadening appeal.
+        </p>
+        <p>
+        Furthermore, the peak in popularity in 2021 underscores EDM's sustained mainstream success and its ability to adapt
+        to changing musical tastes. The optimal danceable tempo range of 120-130 BPM and the experimentation with acoustic
+        elements in 2020 demonstrate the genre's dynamic nature and willingness to innovate. These findings provide
+        valuable insights for producers and artists, highlighting the key elements that drive audience engagement and
+        ensuring that EDM continues to thrive in the evolving musical landscape.
+        </p>
+      </div>
 </div>
 
 
