@@ -16,7 +16,7 @@ function EDMAnalysis() {
       <h1>Electronic Music Trends Analysis</h1>
 
       <div className="edm-analysis">
-      <h4>Using SQL, Power BI, and API calls</h4>
+      <h4>Using SQL, Power BI, Python, and API calls</h4>
       </div>
 
       {/* Prologue */}
