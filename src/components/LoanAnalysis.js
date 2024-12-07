@@ -1,4 +1,4 @@
-// LoanAnalysis.js
+// src/components/LoanAnalysis.js
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/LoanAnalysis.css';

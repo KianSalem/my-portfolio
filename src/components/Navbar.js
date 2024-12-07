@@ -1,11 +1,14 @@
 // src/components/Navbar.js
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import '../styles/Navbar.css';
 
 function Navbar() {
+  const location = useLocation();
+  const isHomePage = location.pathname === '/';
+
   return (
-    <nav className="navbar">
+    <nav className={`navbar ${isHomePage ? '' : 'other-page'}`}>
       <div className="navbar-logo">
         <Link to="/">Kian Salem</Link>
       </div>

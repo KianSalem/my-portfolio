@@ -1,37 +1,44 @@
-/* LoanAnalysis.css */
+/* src/styles/LoanAnalysis.css */
 .loan-analysis {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 80vh;
-    text-align: center;
-    padding: 0 20px;
-  }
-  
-  .loan-analysis h1 {
-    font-size: 3em;
-    margin-bottom: 20px;
-    color: #333;
-  }
-  
-  .loan-analysis p {
-    font-size: 1.5em;
-    margin-bottom: 40px;
-    color: #555;
-  }
-  
-  .cta-button {
-    background-color: #ff7f50;
-    color: #fff;
-    padding: 15px 30px;
-    font-size: 1em;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    text-decoration: none;
-  }
-  
-  .cta-button:hover {
-    background-color: #ff6347;
-  }  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #1e1e1e; /* Dark background */
+  color: #ffffff;
+  height: 100vh;
+  text-align: center;
+  padding: 0 20px;
+  font-family: Arial, sans-serif;
+}
+
+.loan-analysis h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+  color: #ffffff; /* Use accent color for main title */
+  border-bottom: 2px solid #118dff;
+  padding-bottom: 10px;
+}
+
+.loan-analysis p {
+  font-size: 1.5em;
+  margin-bottom: 40px;
+  color: #ffffff;
+  max-width: 600px;
+}
+
+.cta-button {
+  background-color: #118dff;
+  color: #ffffff;
+  padding: 15px 30px;
+  font-size: 1em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #1e25b5;
+}

@@ -43,3 +43,10 @@
   .navbar-links a:hover {
     color: #dddbcb;
   } 
+
+  .navbar.other-page .navbar-links a {
+    color: #ffffff;
+  }  
+  .navbar.other-page .navbar-logo a {
+    color: #ffffff;
+  }  

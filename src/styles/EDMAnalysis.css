@@ -1,71 +1,92 @@
 /* src/styles/EDMAnalysis.css */
-.edm-analysis {
-    padding: 40px 20px;
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  
-  .edm-analysis h1 {
-    text-align: center;
-    font-size: 3rem;
-    margin-bottom: 0px;
-  }
 
-  .edm-analysis h4 {
-    text-align: center;
-    font-size: 1rem;
-    margin-top: -25px;
-    margin-bottom: 0px;
-  }
-  
-  .prologue h2,
-  .analysis-section h2 {
-    font-size: 2rem;
-    margin-top: 0px;
-    margin-bottom: 20px;
-  }
-  
-  .prologue p {
-    font-size: 1.1rem;
-    margin-bottom: 15px;
-    line-height: 1.6;
-  }
-  
-  .analysis-item {
-    margin-bottom: 40px;
-  }
-  
-  .analysis-item h3 {
-    font-size: 1.5rem;
-    margin-bottom: 15px;
-  }
-  
-  .analysis-item p {
-    font-size: 1rem;
-    margin-bottom: 15px;
-    line-height: 1.6;
-  }
-  
-  .visualization {
-    text-align: center;
-    margin-bottom: 20px;
-  }
-  
-  .visualization p {
-    color: #888;
-    font-style: italic;
-  }  
+.edm-analysis-page {
+  min-height: 100vh;
+  background: #1e1e1e; /* Dark neutral background */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
+}
 
-/* Styles for the SQL notebook section */
-/* Styles for the SQL notebook section */
+.edm-analysis-content {
+  max-width: 900px;
+  width: 100%;
+  color: #ffffff;
+}
+
+.edm-analysis-content h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+.edm-analysis-content h4 {
+  text-align: center;
+  font-size: 1rem;
+  margin-top: -10px;
+  color: #ffffff;
+  opacity: 0.9;
+}
+
+.prologue h2,
+.analysis-section h2 {
+  font-size: 2rem;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  color: #ffffff; /* Highlight section titles in a bright blue */
+  border-bottom: 2px solid #118dff;
+  padding-bottom: 10px;
+}
+
+.analysis-item h3 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  color: #ffffff;
+}
+
+.analysis-item p, .prologue p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+strong {
+  color: #118dff; /* Bold text highlighted in blue */
+}
+
+.visualization {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.visualization iframe {
+  border: 2px solid #118dff;
+  border-radius: 10px;
+}
+
 .sql-notebook {
   margin-top: 50px;
   text-align: center;
 }
 
+.sql-notebook h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #ffffff;
+  border-bottom: 2px solid #118dff;
+  padding-bottom: 10px;
+}
+
+.sql-notebook p {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
 .sql-toggle-button {
-  background-color: #0D6EFD;
-  color: #FFFFFF;
+  background-color: #3035f7;
+  color: #ffffff;
   border: none;
   padding: 10px 20px;
   font-size: 1rem;
@@ -75,43 +96,36 @@
 }
 
 .sql-toggle-button:hover {
-  background-color: #0B5ED7;
+  background-color: #1e25b5;
 }
 
 .sql-content {
   margin-top: 20px;
-  background-color: #282C34; /* Dark background to contrast syntax highlighting */
+  background-color: #282C34;
   padding: 20px;
   border-radius: 10px;
   overflow-x: auto;
   max-height: 400px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-/* Styling for code blocks */
-.sql-content pre {
-  margin: 0;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
 }
 
 .sql-content code {
+  color: #ffffff;
   font-family: 'Courier New', Courier, monospace;
   font-size: 0.9rem;
   line-height: 1.5;
-  white-space: pre-wrap;
-  color: #FFFFFF; /* Default text color */
 }
 
-/* Add scrollbars that match the style */
 .sql-content::-webkit-scrollbar {
   width: 8px;
 }
 
 .sql-content::-webkit-scrollbar-track {
-  background: #1E2125; /* Darker track for contrast */
+  background: #1E2125;
 }
 
 .sql-content::-webkit-scrollbar-thumb {
-  background: #3C4043; /* Medium contrast thumb */
+  background: #3C4043;
   border-radius: 4px;
 }
 
