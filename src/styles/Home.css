@@ -1,6 +1,6 @@
 /* src/styles/Home.css */
 .home {
-    background-image: url('/public/images/background.jpg');
+    background-image: url('/public/images/background.mp4');
     background-size: cover;
     background-position: center;
     height: calc(100vh - 80px); /* Adjust based on navbar height */
