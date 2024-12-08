@@ -1,11 +1,53 @@
 // src/components/EDMAnalysis.js
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import '../styles/EDMAnalysis.css';
 import { Light as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { docco } from 'react-syntax-highlighter/dist/esm/styles/hljs';
+import 'particlesjs';
 
 function EDMAnalysis() {
   const [showSQL, setShowSQL] = useState(false);
+
+  useEffect(() => {
+    const canvas = document.querySelector('.background');
+    let particlesInstance = null;
+    if (canvas && window.Particles) {
+      particlesInstance = window.Particles.init({
+        selector: '.background',
+        maxParticles: 250,
+        speed: 0.4,
+        color: '#118dff',
+        connectParticles: true,
+        responsive: [
+          {
+            breakpoint: 768,
+            options: {
+              maxParticles: 80,
+            }
+          },
+          {
+            breakpoint: 425,
+            options: {
+              maxParticles: 50
+            }
+          },
+          {
+            breakpoint: 320,
+            options: {
+              maxParticles: 30
+            }
+          }
+        ]
+      });
+    }
+    return () => {
+      // If the instance supports pausing or other cleanup, call it here.
+      // For example:
+      if (particlesInstance && particlesInstance.pauseAnimation) {
+        particlesInstance.pauseAnimation();
+      }
+    };
+  }, []);
 
   const toggleSQL = () => {
     setShowSQL(!showSQL);
@@ -13,6 +55,7 @@ function EDMAnalysis() {
 
   return (
     <div className="edm-analysis-page">
+      <canvas className="background"></canvas>
       <div className="edm-analysis-content">
         <h1>Electronic Music Trends Analysis</h1>
         <p></p>

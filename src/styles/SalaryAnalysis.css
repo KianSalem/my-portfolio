@@ -42,3 +42,16 @@
 .cta-button:hover {
   background-color: #1e25b5;
 }
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}

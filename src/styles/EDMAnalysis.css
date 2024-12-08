@@ -8,12 +8,28 @@
   align-items: flex-start;
   padding: 40px 20px;
   font-family: Arial, sans-serif;
+  position: relative;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
 }
 
 .edm-analysis-content {
   max-width: 900px;
   width: 100%;
   color: #ffffff;
+  position: relative;
+  z-index: 1; /* ensure the text appears above particles */
 }
 
 .edm-analysis-content h1 {
