@@ -1,10 +1,53 @@
 // src/components/About.js
-import React from 'react';
+import React, { useEffect } from 'react';
 import '../styles/About.css';
+import 'particlesjs';
 
 function About() {
+  useEffect(() => {
+    const canvas = document.querySelector('.background');
+    let particlesInstance = null;
+    if (canvas && window.Particles) {
+      particlesInstance = window.Particles.init({
+        selector: '.background',
+        maxParticles: 45,
+        speed: 0.4,
+        color: '#118dff',
+        connectParticles: true,
+        responsive: [
+          {
+            breakpoint: 768,
+            options: {
+              maxParticles: 80,
+            }
+          },
+          {
+            breakpoint: 425,
+            options: {
+              maxParticles: 50
+            }
+          },
+          {
+            breakpoint: 320,
+            options: {
+              maxParticles: 30
+            }
+          }
+        ]
+      });
+    }
+    return () => {
+      // If the instance supports pausing or other cleanup, call it here.
+      // For example:
+      if (particlesInstance && particlesInstance.pauseAnimation) {
+        particlesInstance.pauseAnimation();
+      }
+    };
+  }, []);
+
   return (
     <div className="about-page">
+      <canvas className="background"></canvas>
       <div className="about-container">
         <p></p>
         <img src="/images/headshot.jpg" alt="Kian Salem" className="about-photo" />

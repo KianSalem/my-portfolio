@@ -20,6 +20,7 @@
   color: #ffffff; /* Use accent color for main title */
   border-bottom: 2px solid #118dff;
   padding-bottom: 10px;
+  z-index: 1;
 }
 
 .loan-analysis p {
@@ -27,6 +28,7 @@
   margin-bottom: 40px;
   color: #ffffff;
   max-width: 600px;
+  z-index: 1;
 }
 
 .cta-button {
