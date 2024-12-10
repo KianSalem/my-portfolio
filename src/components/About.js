@@ -55,10 +55,10 @@ function About() {
           <h2>About Me</h2>
           <p>
           I am a graduate of <strong>The University of Texas at Austin</strong> with a 
-          <strong>Bachelor of Journalism</strong> and a minor in <strong>Business</strong>, complemented 
+           <strong>Bachelor of Journalism</strong> and a minor in <strong>Business</strong>, complemented 
           by a postgraduate certificate in <strong>Cybersecurity</strong>. My professional experience 
           spans operations, data analytics, and project management, most recently as a 
-          <strong>Queue/Analytics Manager</strong> at <strong>Scale AI</strong>, where I led data-driven 
+           <strong>Queue/Analytics Manager</strong> at <strong>Scale AI</strong>, where I led data-driven 
           initiatives and managed high-performing teams. I have strong technical skills in <strong>SQL</strong>, 
           <strong>Power BI</strong>, <strong>Python</strong>, <strong>R</strong>, <strong>React</strong>, and <strong>AWS</strong>, which I’ve used to 
           enhance efficiency and deliver impactful solutions. My goal is to continue building innovative tools 
