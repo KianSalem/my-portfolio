@@ -1,0 +1,52 @@
+/* src/styles/Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(50, 48, 49, 0); /* Transparent background */
+    padding: 0 20px;
+    font-family: system-ui;
+    position: absolute; /* Ensure it overlaps */
+    top: 0; /* Stick to the top of the page */
+    left: 0; /* Align to the left */
+    width: 97%; /* Make it span the full width */
+    z-index: 10; /* Ensure it stays above other elements */
+}
+
+
+  
+  .navbar-logo a {
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-family: system-ui;
+    font-weight: bold;
+  }
+  
+  .navbar-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .navbar-links li {
+    margin-left: 20px;
+  }
+  
+  .navbar-links a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-family: system-ui;
+    font-weight: bold;
+  }
+  
+  .navbar-links a:hover {
+    color: #dddbcb;
+  } 
+
+  .navbar.other-page .navbar-links a {
+    color: #ffffff;
+  }  
+  .navbar.other-page .navbar-logo a {
+    color: #ffffff;
+  }  

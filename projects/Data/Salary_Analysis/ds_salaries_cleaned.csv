@@ -1,0 +1,608 @@
+id,work_year,experience_level,experience_desc,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,role_category
+0,2020,MI,Mid-level,FT,Data Scientist,70000.00,EUR,79833,DE,0,DE,L,Data Analysis
+1,2020,SE,Senior-level,FT,Machine Learning Scientist,260000.00,USD,260000,JP,0,JP,S,Other
+2,2020,SE,Senior-level,FT,Big Data Engineer,85000.00,GBP,109024,GB,50,GB,M,Automation-Focused
+3,2020,MI,Mid-level,FT,Product Data Analyst,20000.00,USD,20000,HN,0,HN,S,Data Analysis
+4,2020,SE,Senior-level,FT,Machine Learning Engineer,150000.00,USD,150000,US,50,US,L,Automation-Focused
+5,2020,EN,Entry-level,FT,Data Analyst,72000.00,USD,72000,US,100,US,L,Data Analysis
+6,2020,SE,Senior-level,FT,Lead Data Scientist,190000.00,USD,190000,US,100,US,S,Data Analysis
+7,2020,MI,Mid-level,FT,Data Scientist,11000000.00,HUF,35735,HU,50,HU,L,Data Analysis
+8,2020,MI,Mid-level,FT,Business Data Analyst,135000.00,USD,135000,US,100,US,L,Data Analysis
+9,2020,SE,Senior-level,FT,Lead Data Engineer,125000.00,USD,125000,NZ,50,NZ,S,Automation-Focused
+10,2020,EN,Entry-level,FT,Data Scientist,45000.00,EUR,51321,FR,0,FR,S,Data Analysis
+11,2020,MI,Mid-level,FT,Data Scientist,3000000.00,INR,40481,IN,0,IN,L,Data Analysis
+12,2020,EN,Entry-level,FT,Data Scientist,35000.00,EUR,39916,FR,0,FR,M,Data Analysis
+13,2020,MI,Mid-level,FT,Lead Data Analyst,87000.00,USD,87000,US,100,US,L,Data Analysis
+14,2020,MI,Mid-level,FT,Data Analyst,85000.00,USD,85000,US,100,US,L,Data Analysis
+15,2020,MI,Mid-level,FT,Data Analyst,8000.00,USD,8000,PK,50,PK,L,Data Analysis
+16,2020,EN,Entry-level,FT,Data Engineer,4450000.00,JPY,41689,JP,100,JP,S,Automation-Focused
+17,2020,SE,Senior-level,FT,Big Data Engineer,100000.00,EUR,114047,PL,100,GB,S,Automation-Focused
+18,2020,EN,Entry-level,FT,Data Science Consultant,423000.00,INR,5707,IN,50,IN,M,Other
+19,2020,MI,Mid-level,FT,Lead Data Engineer,56000.00,USD,56000,PT,100,US,M,Automation-Focused
+20,2020,MI,Mid-level,FT,Machine Learning Engineer,299000.00,CNY,43331,CN,0,CN,M,Automation-Focused
+21,2020,MI,Mid-level,FT,Product Data Analyst,450000.00,INR,6072,IN,100,IN,L,Data Analysis
+22,2020,SE,Senior-level,FT,Data Engineer,42000.00,EUR,47899,GR,50,GR,L,Automation-Focused
+23,2020,MI,Mid-level,FT,BI Data Analyst,98000.00,USD,98000,US,0,US,M,Data Analysis
+24,2020,MI,Mid-level,FT,Lead Data Scientist,115000.00,USD,115000,AE,0,AE,L,Data Analysis
+25,2020,EX,Executive-level,FT,Director of Data Science,325000.00,USD,325000,US,100,US,L,Other
+26,2020,EN,Entry-level,FT,Research Scientist,42000.00,USD,42000,NL,50,NL,L,Other
+27,2020,SE,Senior-level,FT,Data Engineer,720000.00,MXN,33511,MX,0,MX,S,Automation-Focused
+28,2020,EN,Entry-level,CT,Business Data Analyst,100000.00,USD,100000,US,100,US,L,Data Analysis
+29,2020,SE,Senior-level,FT,Machine Learning Manager,157000.00,CAD,117104,CA,50,CA,L,Other
+30,2020,MI,Mid-level,FT,Data Engineering Manager,51999.00,EUR,59303,DE,100,DE,S,Automation-Focused
+31,2020,EN,Entry-level,FT,Big Data Engineer,70000.00,USD,70000,US,100,US,L,Automation-Focused
+32,2020,SE,Senior-level,FT,Data Scientist,60000.00,EUR,68428,GR,100,US,L,Data Analysis
+33,2020,MI,Mid-level,FT,Research Scientist,450000.00,USD,450000,US,0,US,M,Other
+34,2020,MI,Mid-level,FT,Data Analyst,41000.00,EUR,46759,FR,50,FR,L,Data Analysis
+35,2020,MI,Mid-level,FT,Data Engineer,65000.00,EUR,74130,AT,50,AT,L,Automation-Focused
+36,2020,MI,Mid-level,FT,Data Science Consultant,103000.00,USD,103000,US,100,US,L,Other
+37,2020,EN,Entry-level,FT,Machine Learning Engineer,250000.00,USD,250000,US,50,US,L,Automation-Focused
+38,2020,EN,Entry-level,FT,Data Analyst,10000.00,USD,10000,NG,100,NG,S,Data Analysis
+39,2020,EN,Entry-level,FT,Machine Learning Engineer,138000.00,USD,138000,US,100,US,S,Automation-Focused
+40,2020,MI,Mid-level,FT,Data Scientist,45760.00,USD,45760,PH,100,US,S,Data Analysis
+41,2020,EX,Executive-level,FT,Data Engineering Manager,70000.00,EUR,79833,ES,50,ES,L,Automation-Focused
+42,2020,MI,Mid-level,FT,Machine Learning Infrastructure Engineer,44000.00,EUR,50180,PT,0,PT,M,Other
+43,2020,MI,Mid-level,FT,Data Engineer,106000.00,USD,106000,US,100,US,L,Automation-Focused
+44,2020,MI,Mid-level,FT,Data Engineer,88000.00,GBP,112872,GB,50,GB,L,Automation-Focused
+45,2020,EN,Entry-level,PT,ML Engineer,14000.00,EUR,15966,DE,100,DE,S,Automation-Focused
+46,2020,MI,Mid-level,FT,Data Scientist,60000.00,GBP,76958,GB,100,GB,S,Data Analysis
+47,2020,SE,Senior-level,FT,Data Engineer,188000.00,USD,188000,US,100,US,L,Automation-Focused
+48,2020,MI,Mid-level,FT,Data Scientist,105000.00,USD,105000,US,100,US,L,Data Analysis
+49,2020,MI,Mid-level,FT,Data Engineer,61500.00,EUR,70139,FR,50,FR,L,Automation-Focused
+50,2020,EN,Entry-level,FT,Data Analyst,450000.00,INR,6072,IN,0,IN,S,Data Analysis
+51,2020,EN,Entry-level,FT,Data Analyst,91000.00,USD,91000,US,100,US,L,Data Analysis
+52,2020,EN,Entry-level,FT,AI Scientist,300000.00,DKK,45896,DK,50,DK,S,Other
+53,2020,EN,Entry-level,FT,Data Engineer,48000.00,EUR,54742,PK,100,DE,L,Automation-Focused
+54,2020,SE,Senior-level,FL,Computer Vision Engineer,60000.00,USD,60000,RU,100,US,S,Other
+55,2020,SE,Senior-level,FT,Principal Data Scientist,130000.00,EUR,148261,DE,100,DE,M,Data Analysis
+56,2020,MI,Mid-level,FT,Data Scientist,34000.00,EUR,38776,ES,100,ES,M,Data Analysis
+57,2020,MI,Mid-level,FT,Data Scientist,118000.00,USD,118000,US,100,US,M,Data Analysis
+58,2020,SE,Senior-level,FT,Data Scientist,120000.00,USD,120000,US,50,US,L,Data Analysis
+59,2020,MI,Mid-level,FT,Data Scientist,138350.00,USD,138350,US,100,US,M,Data Analysis
+60,2020,MI,Mid-level,FT,Data Engineer,110000.00,USD,110000,US,100,US,L,Automation-Focused
+61,2020,MI,Mid-level,FT,Data Engineer,130800.00,USD,130800,ES,100,US,M,Automation-Focused
+62,2020,EN,Entry-level,PT,Data Scientist,19000.00,EUR,21669,IT,50,IT,S,Data Analysis
+63,2020,SE,Senior-level,FT,Data Scientist,412000.00,USD,412000,US,100,US,L,Data Analysis
+64,2020,SE,Senior-level,FT,Machine Learning Engineer,40000.00,EUR,45618,HR,100,HR,S,Automation-Focused
+65,2020,EN,Entry-level,FT,Data Scientist,55000.00,EUR,62726,DE,50,DE,S,Data Analysis
+66,2020,EN,Entry-level,FT,Data Scientist,43200.00,EUR,49268,DE,0,DE,S,Data Analysis
+67,2020,SE,Senior-level,FT,Data Science Manager,190200.00,USD,190200,US,100,US,M,Other
+68,2020,EN,Entry-level,FT,Data Scientist,105000.00,USD,105000,US,100,US,S,Data Analysis
+69,2020,SE,Senior-level,FT,Data Scientist,80000.00,EUR,91237,AT,0,AT,S,Data Analysis
+70,2020,MI,Mid-level,FT,Data Scientist,55000.00,EUR,62726,FR,50,LU,S,Data Analysis
+71,2020,MI,Mid-level,FT,Data Scientist,37000.00,EUR,42197,FR,50,FR,S,Data Analysis
+72,2021,EN,Entry-level,FT,Research Scientist,60000.00,GBP,82528,GB,50,GB,L,Other
+73,2021,EX,Executive-level,FT,BI Data Analyst,150000.00,USD,150000,IN,100,US,L,Data Analysis
+74,2021,EX,Executive-level,FT,Head of Data,235000.00,USD,235000,US,100,US,L,Other
+75,2021,SE,Senior-level,FT,Data Scientist,45000.00,EUR,53192,FR,50,FR,L,Data Analysis
+76,2021,MI,Mid-level,FT,BI Data Analyst,100000.00,USD,100000,US,100,US,M,Data Analysis
+77,2021,MI,Mid-level,PT,3D Computer Vision Researcher,400000.00,INR,5409,IN,50,IN,M,Other
+78,2021,MI,Mid-level,CT,ML Engineer,270000.00,USD,270000,US,100,US,L,Automation-Focused
+79,2021,EN,Entry-level,FT,Data Analyst,80000.00,USD,80000,US,100,US,M,Data Analysis
+80,2021,SE,Senior-level,FT,Data Analytics Engineer,67000.00,EUR,79197,DE,100,DE,L,Other
+81,2021,MI,Mid-level,FT,Data Engineer,140000.00,USD,140000,US,100,US,L,Automation-Focused
+82,2021,MI,Mid-level,FT,Applied Data Scientist,68000.00,CAD,54238,GB,50,CA,L,Data Analysis
+83,2021,MI,Mid-level,FT,Machine Learning Engineer,40000.00,EUR,47282,ES,100,ES,S,Automation-Focused
+84,2021,EX,Executive-level,FT,Director of Data Science,130000.00,EUR,153667,IT,100,PL,L,Other
+85,2021,MI,Mid-level,FT,Data Engineer,110000.00,PLN,28476,PL,100,PL,L,Automation-Focused
+86,2021,EN,Entry-level,FT,Data Analyst,50000.00,EUR,59102,FR,50,FR,M,Data Analysis
+87,2021,MI,Mid-level,FT,Data Analytics Engineer,110000.00,USD,110000,US,100,US,L,Other
+88,2021,SE,Senior-level,FT,Lead Data Analyst,170000.00,USD,170000,US,100,US,L,Data Analysis
+89,2021,SE,Senior-level,FT,Data Analyst,80000.00,USD,80000,BG,100,US,S,Data Analysis
+90,2021,SE,Senior-level,FT,Marketing Data Analyst,75000.00,EUR,88654,GR,100,DK,L,Data Analysis
+91,2021,EN,Entry-level,FT,Data Science Consultant,65000.00,EUR,76833,DE,100,DE,S,Other
+92,2021,MI,Mid-level,FT,Lead Data Analyst,1450000.00,INR,19609,IN,100,IN,L,Data Analysis
+93,2021,SE,Senior-level,FT,Lead Data Engineer,276000.00,USD,276000,US,0,US,L,Automation-Focused
+94,2021,EN,Entry-level,FT,Data Scientist,2200000.00,INR,29751,IN,50,IN,L,Data Analysis
+95,2021,MI,Mid-level,FT,Cloud Data Engineer,120000.00,SGD,89294,SG,50,SG,L,Automation-Focused
+96,2021,EN,Entry-level,PT,AI Scientist,12000.00,USD,12000,BR,100,US,S,Other
+97,2021,MI,Mid-level,FT,Financial Data Analyst,450000.00,USD,450000,US,100,US,L,Data Analysis
+98,2021,EN,Entry-level,FT,Computer Vision Software Engineer,70000.00,USD,70000,US,100,US,M,Other
+99,2021,MI,Mid-level,FT,Computer Vision Software Engineer,81000.00,EUR,95746,DE,100,US,S,Other
+100,2021,MI,Mid-level,FT,Data Analyst,75000.00,USD,75000,US,0,US,L,Data Analysis
+101,2021,SE,Senior-level,FT,Data Engineer,150000.00,USD,150000,US,100,US,L,Automation-Focused
+102,2021,MI,Mid-level,FT,BI Data Analyst,11000000.00,HUF,36259,HU,50,US,L,Data Analysis
+103,2021,MI,Mid-level,FT,Data Analyst,62000.00,USD,62000,US,0,US,L,Data Analysis
+104,2021,MI,Mid-level,FT,Data Scientist,73000.00,USD,73000,US,0,US,L,Data Analysis
+105,2021,MI,Mid-level,FT,Data Analyst,37456.00,GBP,51519,GB,50,GB,L,Data Analysis
+106,2021,MI,Mid-level,FT,Research Scientist,235000.00,CAD,187442,CA,100,CA,L,Other
+107,2021,SE,Senior-level,FT,Data Engineer,115000.00,USD,115000,US,100,US,S,Automation-Focused
+108,2021,SE,Senior-level,FT,Data Engineer,150000.00,USD,150000,US,100,US,M,Automation-Focused
+109,2021,EN,Entry-level,FT,Data Engineer,2250000.00,INR,30428,IN,100,IN,L,Automation-Focused
+110,2021,SE,Senior-level,FT,Machine Learning Engineer,80000.00,EUR,94564,DE,50,DE,L,Automation-Focused
+111,2021,SE,Senior-level,FT,Director of Data Engineering,82500.00,GBP,113476,GB,100,GB,M,Automation-Focused
+112,2021,SE,Senior-level,FT,Lead Data Engineer,75000.00,GBP,103160,GB,100,GB,S,Automation-Focused
+113,2021,EN,Entry-level,PT,AI Scientist,12000.00,USD,12000,PK,100,US,M,Other
+114,2021,MI,Mid-level,FT,Data Engineer,38400.00,EUR,45391,NL,100,NL,L,Automation-Focused
+115,2021,EN,Entry-level,FT,Machine Learning Scientist,225000.00,USD,225000,US,100,US,L,Other
+116,2021,MI,Mid-level,FT,Data Scientist,50000.00,USD,50000,NG,100,NG,L,Data Analysis
+117,2021,MI,Mid-level,FT,Data Science Engineer,34000.00,EUR,40189,GR,100,GR,M,Other
+118,2021,EN,Entry-level,FT,Data Analyst,90000.00,USD,90000,US,100,US,S,Data Analysis
+119,2021,MI,Mid-level,FT,Data Engineer,200000.00,USD,200000,US,100,US,L,Automation-Focused
+120,2021,MI,Mid-level,FT,Big Data Engineer,60000.00,USD,60000,ES,50,RO,M,Automation-Focused
+121,2021,SE,Senior-level,FT,Principal Data Engineer,200000.00,USD,200000,US,100,US,M,Automation-Focused
+122,2021,EN,Entry-level,FT,Data Analyst,50000.00,USD,50000,US,100,US,M,Data Analysis
+123,2021,EN,Entry-level,FT,Applied Data Scientist,80000.00,GBP,110037,GB,0,GB,L,Data Analysis
+124,2021,EN,Entry-level,PT,Data Analyst,8760.00,EUR,10354,ES,50,ES,M,Data Analysis
+125,2021,MI,Mid-level,FT,Principal Data Scientist,151000.00,USD,151000,US,100,US,L,Data Analysis
+126,2021,SE,Senior-level,FT,Machine Learning Scientist,120000.00,USD,120000,US,50,US,S,Other
+127,2021,MI,Mid-level,FT,Data Scientist,700000.00,INR,9466,IN,0,IN,S,Data Analysis
+128,2021,EN,Entry-level,FT,Machine Learning Engineer,20000.00,USD,20000,IN,100,IN,S,Automation-Focused
+129,2021,SE,Senior-level,FT,Lead Data Scientist,3000000.00,INR,40570,IN,50,IN,L,Data Analysis
+130,2021,EN,Entry-level,FT,Machine Learning Developer,100000.00,USD,100000,IQ,50,IQ,S,Other
+131,2021,EN,Entry-level,FT,Data Scientist,42000.00,EUR,49646,FR,50,FR,M,Data Analysis
+132,2021,MI,Mid-level,FT,Applied Machine Learning Scientist,38400.00,USD,38400,VN,100,US,M,Other
+133,2021,SE,Senior-level,FT,Computer Vision Engineer,24000.00,USD,24000,BR,100,BR,M,Other
+134,2021,EN,Entry-level,FT,Data Scientist,100000.00,USD,100000,US,0,US,S,Data Analysis
+135,2021,MI,Mid-level,FT,Data Analyst,90000.00,USD,90000,US,100,US,M,Data Analysis
+136,2021,MI,Mid-level,FT,ML Engineer,7000000.00,JPY,63711,JP,50,JP,S,Automation-Focused
+137,2021,MI,Mid-level,FT,ML Engineer,8500000.00,JPY,77364,JP,50,JP,S,Automation-Focused
+138,2021,SE,Senior-level,FT,Principal Data Scientist,220000.00,USD,220000,US,0,US,L,Data Analysis
+139,2021,EN,Entry-level,FT,Data Scientist,80000.00,USD,80000,US,100,US,M,Data Analysis
+140,2021,MI,Mid-level,FT,Data Analyst,135000.00,USD,135000,US,100,US,L,Data Analysis
+141,2021,SE,Senior-level,FT,Data Science Manager,240000.00,USD,240000,US,0,US,L,Other
+142,2021,SE,Senior-level,FT,Data Engineering Manager,150000.00,USD,150000,US,0,US,L,Automation-Focused
+143,2021,MI,Mid-level,FT,Data Scientist,82500.00,USD,82500,US,100,US,S,Data Analysis
+144,2021,MI,Mid-level,FT,Data Engineer,100000.00,USD,100000,US,100,US,L,Automation-Focused
+145,2021,SE,Senior-level,FT,Machine Learning Engineer,70000.00,EUR,82744,BE,50,BE,M,Automation-Focused
+146,2021,MI,Mid-level,FT,Research Scientist,53000.00,EUR,62649,FR,50,FR,M,Other
+147,2021,MI,Mid-level,FT,Data Engineer,90000.00,USD,90000,US,100,US,L,Automation-Focused
+148,2021,SE,Senior-level,FT,Data Engineering Manager,153000.00,USD,153000,US,100,US,L,Automation-Focused
+149,2021,SE,Senior-level,FT,Cloud Data Engineer,160000.00,USD,160000,BR,100,US,S,Automation-Focused
+150,2021,SE,Senior-level,FT,Director of Data Science,168000.00,USD,168000,JP,0,JP,S,Other
+151,2021,MI,Mid-level,FT,Data Scientist,150000.00,USD,150000,US,100,US,M,Data Analysis
+152,2021,MI,Mid-level,FT,Data Scientist,95000.00,CAD,75774,CA,100,CA,L,Data Analysis
+153,2021,EN,Entry-level,FT,Data Scientist,13400.00,USD,13400,UA,100,UA,L,Data Analysis
+154,2021,SE,Senior-level,FT,Data Science Manager,144000.00,USD,144000,US,100,US,L,Other
+155,2021,SE,Senior-level,FT,Data Science Engineer,159500.00,CAD,127221,CA,50,CA,L,Other
+156,2021,MI,Mid-level,FT,Data Scientist,160000.00,SGD,119059,SG,100,IL,M,Data Analysis
+157,2021,MI,Mid-level,FT,Applied Machine Learning Scientist,423000.00,USD,423000,US,50,US,L,Other
+158,2021,SE,Senior-level,FT,Data Analytics Manager,120000.00,USD,120000,US,100,US,M,Other
+159,2021,EN,Entry-level,FT,Machine Learning Engineer,125000.00,USD,125000,US,100,US,S,Automation-Focused
+160,2021,EX,Executive-level,FT,Head of Data,230000.00,USD,230000,RU,50,RU,L,Other
+161,2021,EX,Executive-level,FT,Head of Data Science,85000.00,USD,85000,RU,0,RU,M,Other
+162,2021,MI,Mid-level,FT,Data Engineer,24000.00,EUR,28369,MT,50,MT,L,Automation-Focused
+163,2021,EN,Entry-level,FT,Data Science Consultant,54000.00,EUR,63831,DE,50,DE,L,Other
+164,2021,EX,Executive-level,FT,Director of Data Science,110000.00,EUR,130026,DE,50,DE,M,Other
+165,2021,SE,Senior-level,FT,Data Specialist,165000.00,USD,165000,US,100,US,L,Other
+166,2021,EN,Entry-level,FT,Data Engineer,80000.00,USD,80000,US,100,US,L,Automation-Focused
+167,2021,EX,Executive-level,FT,Director of Data Science,250000.00,USD,250000,US,0,US,L,Other
+168,2021,EN,Entry-level,FT,BI Data Analyst,55000.00,USD,55000,US,50,US,S,Data Analysis
+169,2021,MI,Mid-level,FT,Data Architect,150000.00,USD,150000,US,100,US,L,Other
+170,2021,MI,Mid-level,FT,Data Architect,170000.00,USD,170000,US,100,US,L,Other
+171,2021,MI,Mid-level,FT,Data Engineer,60000.00,GBP,82528,GB,100,GB,L,Automation-Focused
+172,2021,EN,Entry-level,FT,Data Analyst,60000.00,USD,60000,US,100,US,S,Data Analysis
+173,2021,SE,Senior-level,FT,Principal Data Scientist,235000.00,USD,235000,US,100,US,L,Data Analysis
+174,2021,SE,Senior-level,FT,Research Scientist,51400.00,EUR,60757,PT,50,PT,L,Other
+175,2021,SE,Senior-level,FT,Data Engineering Manager,174000.00,USD,174000,US,100,US,L,Automation-Focused
+176,2021,MI,Mid-level,FT,Data Scientist,58000.00,MXN,2859,MX,0,MX,S,Data Analysis
+177,2021,MI,Mid-level,FT,Data Scientist,30400000.00,CLP,40038,CL,100,CL,L,Data Analysis
+178,2021,EN,Entry-level,FT,Machine Learning Engineer,81000.00,USD,81000,US,50,US,S,Automation-Focused
+179,2021,MI,Mid-level,FT,Data Scientist,420000.00,INR,5679,IN,100,US,S,Data Analysis
+180,2021,MI,Mid-level,FT,Big Data Engineer,1672000.00,INR,22611,IN,0,IN,L,Automation-Focused
+181,2021,MI,Mid-level,FT,Data Scientist,76760.00,EUR,90734,DE,50,DE,L,Data Analysis
+182,2021,MI,Mid-level,FT,Data Engineer,22000.00,EUR,26005,RO,0,US,L,Automation-Focused
+183,2021,SE,Senior-level,FT,Finance Data Analyst,45000.00,GBP,61896,GB,50,GB,L,Data Analysis
+184,2021,MI,Mid-level,FL,Machine Learning Scientist,12000.00,USD,12000,PK,50,PK,M,Other
+185,2021,MI,Mid-level,FT,Data Engineer,4000.00,USD,4000,IR,100,IR,M,Automation-Focused
+186,2021,SE,Senior-level,FT,Data Analytics Engineer,50000.00,USD,50000,VN,100,GB,M,Other
+187,2021,EX,Executive-level,FT,Data Science Consultant,59000.00,EUR,69741,FR,100,ES,S,Other
+188,2021,SE,Senior-level,FT,Data Engineer,65000.00,EUR,76833,RO,50,GB,S,Automation-Focused
+189,2021,MI,Mid-level,FT,Machine Learning Engineer,74000.00,USD,74000,JP,50,JP,S,Automation-Focused
+190,2021,SE,Senior-level,FT,Data Science Manager,152000.00,USD,152000,US,100,FR,L,Other
+191,2021,EN,Entry-level,FT,Machine Learning Engineer,21844.00,USD,21844,CO,50,CO,M,Automation-Focused
+192,2021,MI,Mid-level,FT,Big Data Engineer,18000.00,USD,18000,MD,0,MD,S,Automation-Focused
+193,2021,SE,Senior-level,FT,Data Science Manager,174000.00,USD,174000,US,100,US,L,Other
+194,2021,SE,Senior-level,FT,Research Scientist,120500.00,CAD,96113,CA,50,CA,L,Other
+195,2021,MI,Mid-level,FT,Data Scientist,147000.00,USD,147000,US,50,US,L,Data Analysis
+196,2021,EN,Entry-level,FT,BI Data Analyst,9272.00,USD,9272,KE,100,KE,S,Data Analysis
+197,2021,SE,Senior-level,FT,Machine Learning Engineer,1799997.00,INR,24342,IN,100,IN,L,Automation-Focused
+198,2021,SE,Senior-level,FT,Data Science Manager,4000000.00,INR,54094,IN,50,US,L,Other
+199,2021,EN,Entry-level,FT,Data Science Consultant,90000.00,USD,90000,US,100,US,S,Other
+200,2021,MI,Mid-level,FT,Data Scientist,52000.00,EUR,61467,DE,50,AT,M,Data Analysis
+201,2021,SE,Senior-level,FT,Machine Learning Infrastructure Engineer,195000.00,USD,195000,US,100,US,M,Other
+202,2021,MI,Mid-level,FT,Data Scientist,32000.00,EUR,37825,ES,100,ES,L,Data Analysis
+203,2021,SE,Senior-level,FT,Research Scientist,50000.00,USD,50000,FR,100,US,S,Other
+204,2021,MI,Mid-level,FT,Data Scientist,160000.00,USD,160000,US,100,US,L,Data Analysis
+205,2021,MI,Mid-level,FT,Data Scientist,69600.00,BRL,12901,BR,0,BR,S,Data Analysis
+206,2021,SE,Senior-level,FT,Machine Learning Engineer,200000.00,USD,200000,US,100,US,L,Automation-Focused
+207,2021,SE,Senior-level,FT,Data Engineer,165000.00,USD,165000,US,0,US,M,Automation-Focused
+208,2021,MI,Mid-level,FL,Data Engineer,20000.00,USD,20000,IT,0,US,L,Automation-Focused
+209,2021,SE,Senior-level,FT,Data Analytics Manager,120000.00,USD,120000,US,0,US,L,Other
+210,2021,MI,Mid-level,FT,Machine Learning Engineer,21000.00,EUR,24823,SI,50,SI,L,Automation-Focused
+211,2021,MI,Mid-level,FT,Research Scientist,48000.00,EUR,56738,FR,50,FR,S,Other
+212,2021,MI,Mid-level,FT,Data Engineer,48000.00,GBP,66022,HK,50,GB,S,Automation-Focused
+213,2021,EN,Entry-level,FT,Big Data Engineer,435000.00,INR,5882,IN,0,CH,L,Automation-Focused
+214,2021,EN,Entry-level,FT,Machine Learning Engineer,21000.00,EUR,24823,DE,50,DE,M,Automation-Focused
+215,2021,SE,Senior-level,FT,Principal Data Engineer,185000.00,USD,185000,US,100,US,L,Automation-Focused
+216,2021,EN,Entry-level,PT,Computer Vision Engineer,180000.00,DKK,28609,DK,50,DK,S,Other
+217,2021,MI,Mid-level,FT,Data Scientist,76760.00,EUR,90734,DE,50,DE,L,Data Analysis
+218,2021,MI,Mid-level,FT,Machine Learning Engineer,75000.00,EUR,88654,BE,100,BE,M,Automation-Focused
+219,2021,SE,Senior-level,FT,Data Analytics Manager,140000.00,USD,140000,US,100,US,L,Other
+220,2021,MI,Mid-level,FT,Machine Learning Engineer,180000.00,PLN,46597,PL,100,PL,L,Automation-Focused
+221,2021,MI,Mid-level,FT,Data Scientist,85000.00,GBP,116914,GB,50,GB,L,Data Analysis
+222,2021,MI,Mid-level,FT,Data Scientist,2500000.00,INR,33808,IN,0,IN,M,Data Analysis
+223,2021,MI,Mid-level,FT,Data Scientist,40900.00,GBP,56256,GB,50,GB,L,Data Analysis
+224,2021,SE,Senior-level,FT,Machine Learning Scientist,225000.00,USD,225000,US,100,CA,L,Other
+225,2021,EX,Executive-level,CT,Principal Data Scientist,416000.00,USD,416000,US,100,US,S,Data Analysis
+226,2021,SE,Senior-level,FT,Data Scientist,110000.00,CAD,87738,CA,100,CA,S,Data Analysis
+227,2021,MI,Mid-level,FT,Data Scientist,75000.00,EUR,88654,DE,50,DE,L,Data Analysis
+228,2021,SE,Senior-level,FT,Data Scientist,135000.00,USD,135000,US,0,US,L,Data Analysis
+229,2021,SE,Senior-level,FT,Data Analyst,90000.00,CAD,71786,CA,100,CA,M,Data Analysis
+230,2021,EN,Entry-level,FT,Big Data Engineer,1200000.00,INR,16228,IN,100,IN,L,Automation-Focused
+231,2021,SE,Senior-level,FT,ML Engineer,256000.00,USD,256000,US,100,US,S,Automation-Focused
+232,2021,SE,Senior-level,FT,Director of Data Engineering,200000.00,USD,200000,US,100,US,L,Automation-Focused
+233,2021,SE,Senior-level,FT,Data Analyst,200000.00,USD,200000,US,100,US,L,Data Analysis
+234,2021,MI,Mid-level,FT,Data Architect,180000.00,USD,180000,US,100,US,L,Other
+235,2021,MI,Mid-level,FT,Head of Data Science,110000.00,USD,110000,US,0,US,S,Other
+236,2021,MI,Mid-level,FT,Research Scientist,80000.00,CAD,63810,CA,100,CA,M,Other
+237,2021,MI,Mid-level,FT,Data Scientist,39600.00,EUR,46809,ES,100,ES,M,Data Analysis
+238,2021,EN,Entry-level,FT,Data Scientist,4000.00,USD,4000,VN,0,VN,M,Data Analysis
+239,2021,EN,Entry-level,FT,Data Engineer,1600000.00,INR,21637,IN,50,IN,M,Automation-Focused
+240,2021,SE,Senior-level,FT,Data Scientist,130000.00,CAD,103691,CA,100,CA,L,Data Analysis
+241,2021,MI,Mid-level,FT,Data Analyst,80000.00,USD,80000,US,100,US,L,Data Analysis
+242,2021,MI,Mid-level,FT,Data Engineer,110000.00,USD,110000,US,100,US,L,Automation-Focused
+243,2021,SE,Senior-level,FT,Data Scientist,165000.00,USD,165000,US,100,US,L,Data Analysis
+244,2021,EN,Entry-level,FT,AI Scientist,1335000.00,INR,18053,IN,100,AS,S,Other
+245,2021,MI,Mid-level,FT,Data Engineer,52500.00,GBP,72212,GB,50,GB,L,Automation-Focused
+246,2021,EN,Entry-level,FT,Data Scientist,31000.00,EUR,36643,FR,50,FR,L,Data Analysis
+247,2021,MI,Mid-level,FT,Data Engineer,108000.00,TRY,12103,TR,0,TR,M,Automation-Focused
+248,2021,SE,Senior-level,FT,Data Engineer,70000.00,GBP,96282,GB,50,GB,L,Automation-Focused
+249,2021,SE,Senior-level,FT,Principal Data Analyst,170000.00,USD,170000,US,100,US,M,Data Analysis
+250,2021,MI,Mid-level,FT,Data Scientist,115000.00,USD,115000,US,50,US,L,Data Analysis
+251,2021,EN,Entry-level,FT,Data Scientist,90000.00,USD,90000,US,100,US,S,Data Analysis
+252,2021,EX,Executive-level,FT,Principal Data Engineer,600000.00,USD,600000,US,100,US,L,Automation-Focused
+253,2021,EN,Entry-level,FT,Data Scientist,2100000.00,INR,28399,IN,100,IN,M,Data Analysis
+254,2021,MI,Mid-level,FT,Data Analyst,93000.00,USD,93000,US,100,US,L,Data Analysis
+255,2021,SE,Senior-level,FT,Big Data Architect,125000.00,CAD,99703,CA,50,CA,M,Other
+256,2021,MI,Mid-level,FT,Data Engineer,200000.00,USD,200000,US,100,US,L,Automation-Focused
+257,2021,SE,Senior-level,FT,Principal Data Scientist,147000.00,EUR,173762,DE,100,DE,M,Data Analysis
+258,2021,SE,Senior-level,FT,Machine Learning Engineer,185000.00,USD,185000,US,50,US,L,Automation-Focused
+259,2021,EX,Executive-level,FT,Director of Data Science,120000.00,EUR,141846,DE,0,DE,L,Other
+260,2021,MI,Mid-level,FT,Data Scientist,130000.00,USD,130000,US,50,US,L,Data Analysis
+261,2021,SE,Senior-level,FT,Data Analyst,54000.00,EUR,63831,DE,50,DE,L,Data Analysis
+262,2021,MI,Mid-level,FT,Data Scientist,1250000.00,INR,16904,IN,100,IN,S,Data Analysis
+263,2021,SE,Senior-level,FT,Machine Learning Engineer,4900000.00,INR,66265,IN,0,IN,L,Automation-Focused
+264,2021,MI,Mid-level,FT,Data Scientist,21600.00,EUR,25532,RS,100,DE,S,Data Analysis
+265,2021,SE,Senior-level,FT,Lead Data Engineer,160000.00,USD,160000,PR,50,US,S,Automation-Focused
+266,2021,MI,Mid-level,FT,Data Engineer,93150.00,USD,93150,US,0,US,M,Automation-Focused
+267,2021,MI,Mid-level,FT,Data Engineer,111775.00,USD,111775,US,0,US,M,Automation-Focused
+268,2021,MI,Mid-level,FT,Data Engineer,250000.00,TRY,28016,TR,100,TR,M,Automation-Focused
+269,2021,EN,Entry-level,FT,Data Engineer,55000.00,EUR,65013,DE,50,DE,M,Automation-Focused
+270,2021,EN,Entry-level,FT,Data Engineer,72500.00,USD,72500,US,100,US,L,Automation-Focused
+271,2021,SE,Senior-level,FT,Computer Vision Engineer,102000.00,BRL,18907,BR,0,BR,M,Other
+272,2021,EN,Entry-level,FT,Data Science Consultant,65000.00,EUR,76833,DE,0,DE,L,Other
+273,2021,EN,Entry-level,FT,Machine Learning Engineer,85000.00,USD,85000,NL,100,DE,S,Automation-Focused
+274,2021,SE,Senior-level,FT,Data Scientist,65720.00,EUR,77684,FR,50,FR,M,Data Analysis
+275,2021,EN,Entry-level,FT,Data Scientist,100000.00,USD,100000,US,100,US,M,Data Analysis
+276,2021,EN,Entry-level,FT,Data Scientist,58000.00,USD,58000,US,50,US,L,Data Analysis
+277,2021,SE,Senior-level,FT,AI Scientist,55000.00,USD,55000,ES,100,ES,L,Other
+278,2021,SE,Senior-level,FT,Data Scientist,180000.00,TRY,20171,TR,50,TR,L,Data Analysis
+279,2021,EN,Entry-level,FT,Business Data Analyst,50000.00,EUR,59102,LU,100,LU,L,Data Analysis
+280,2021,MI,Mid-level,FT,Data Engineer,112000.00,USD,112000,US,100,US,L,Automation-Focused
+281,2021,EN,Entry-level,FT,Research Scientist,100000.00,USD,100000,JE,0,CN,L,Other
+282,2021,MI,Mid-level,PT,Data Engineer,59000.00,EUR,69741,NL,100,NL,L,Automation-Focused
+283,2021,SE,Senior-level,CT,Staff Data Scientist,105000.00,USD,105000,US,100,US,M,Data Analysis
+284,2021,MI,Mid-level,FT,Research Scientist,69999.00,USD,69999,CZ,50,CZ,L,Other
+285,2021,SE,Senior-level,FT,Data Science Manager,7000000.00,INR,94665,IN,50,IN,L,Other
+286,2021,SE,Senior-level,FT,Head of Data,87000.00,EUR,102839,SI,100,SI,L,Other
+287,2021,MI,Mid-level,FT,Data Scientist,109000.00,USD,109000,US,50,US,L,Data Analysis
+288,2021,MI,Mid-level,FT,Machine Learning Engineer,43200.00,EUR,51064,IT,50,IT,L,Automation-Focused
+289,2022,SE,Senior-level,FT,Data Engineer,135000.00,USD,135000,US,100,US,M,Automation-Focused
+290,2022,SE,Senior-level,FT,Data Analyst,155000.00,USD,155000,US,100,US,M,Data Analysis
+291,2022,SE,Senior-level,FT,Data Analyst,120600.00,USD,120600,US,100,US,M,Data Analysis
+292,2022,MI,Mid-level,FT,Data Scientist,130000.00,USD,130000,US,0,US,M,Data Analysis
+293,2022,MI,Mid-level,FT,Data Scientist,90000.00,USD,90000,US,0,US,M,Data Analysis
+294,2022,MI,Mid-level,FT,Data Engineer,170000.00,USD,170000,US,100,US,M,Automation-Focused
+295,2022,MI,Mid-level,FT,Data Engineer,150000.00,USD,150000,US,100,US,M,Automation-Focused
+296,2022,SE,Senior-level,FT,Data Analyst,102100.00,USD,102100,US,100,US,M,Data Analysis
+297,2022,SE,Senior-level,FT,Data Analyst,84900.00,USD,84900,US,100,US,M,Data Analysis
+298,2022,SE,Senior-level,FT,Data Scientist,136620.00,USD,136620,US,100,US,M,Data Analysis
+299,2022,SE,Senior-level,FT,Data Scientist,99360.00,USD,99360,US,100,US,M,Data Analysis
+300,2022,SE,Senior-level,FT,Data Scientist,90000.00,GBP,117789,GB,0,GB,M,Data Analysis
+301,2022,SE,Senior-level,FT,Data Scientist,80000.00,GBP,104702,GB,0,GB,M,Data Analysis
+302,2022,SE,Senior-level,FT,Data Scientist,146000.00,USD,146000,US,100,US,M,Data Analysis
+303,2022,SE,Senior-level,FT,Data Scientist,123000.00,USD,123000,US,100,US,M,Data Analysis
+304,2022,EN,Entry-level,FT,Data Engineer,40000.00,GBP,52351,GB,100,GB,M,Automation-Focused
+305,2022,SE,Senior-level,FT,Data Analyst,99000.00,USD,99000,US,0,US,M,Data Analysis
+306,2022,SE,Senior-level,FT,Data Analyst,116000.00,USD,116000,US,0,US,M,Data Analysis
+307,2022,MI,Mid-level,FT,Data Analyst,106260.00,USD,106260,US,0,US,M,Data Analysis
+308,2022,MI,Mid-level,FT,Data Analyst,126500.00,USD,126500,US,0,US,M,Data Analysis
+309,2022,EX,Executive-level,FT,Data Engineer,242000.00,USD,242000,US,100,US,M,Automation-Focused
+310,2022,EX,Executive-level,FT,Data Engineer,200000.00,USD,200000,US,100,US,M,Automation-Focused
+311,2022,MI,Mid-level,FT,Data Scientist,50000.00,GBP,65438,GB,0,GB,M,Data Analysis
+312,2022,MI,Mid-level,FT,Data Scientist,30000.00,GBP,39263,GB,0,GB,M,Data Analysis
+313,2022,MI,Mid-level,FT,Data Engineer,60000.00,GBP,78526,GB,0,GB,M,Automation-Focused
+314,2022,MI,Mid-level,FT,Data Engineer,40000.00,GBP,52351,GB,0,GB,M,Automation-Focused
+315,2022,SE,Senior-level,FT,Data Scientist,165220.00,USD,165220,US,100,US,M,Data Analysis
+316,2022,EN,Entry-level,FT,Data Engineer,35000.00,GBP,45807,GB,100,GB,M,Automation-Focused
+317,2022,SE,Senior-level,FT,Data Scientist,120160.00,USD,120160,US,100,US,M,Data Analysis
+318,2022,SE,Senior-level,FT,Data Analyst,90320.00,USD,90320,US,100,US,M,Data Analysis
+319,2022,SE,Senior-level,FT,Data Engineer,181940.00,USD,181940,US,0,US,M,Automation-Focused
+320,2022,SE,Senior-level,FT,Data Engineer,132320.00,USD,132320,US,0,US,M,Automation-Focused
+321,2022,SE,Senior-level,FT,Data Engineer,220110.00,USD,220110,US,0,US,M,Automation-Focused
+322,2022,SE,Senior-level,FT,Data Engineer,160080.00,USD,160080,US,0,US,M,Automation-Focused
+323,2022,SE,Senior-level,FT,Data Scientist,180000.00,USD,180000,US,0,US,L,Data Analysis
+324,2022,SE,Senior-level,FT,Data Scientist,120000.00,USD,120000,US,0,US,L,Data Analysis
+325,2022,SE,Senior-level,FT,Data Analyst,124190.00,USD,124190,US,100,US,M,Data Analysis
+326,2022,EX,Executive-level,FT,Data Analyst,130000.00,USD,130000,US,100,US,M,Data Analysis
+327,2022,EX,Executive-level,FT,Data Analyst,110000.00,USD,110000,US,100,US,M,Data Analysis
+328,2022,SE,Senior-level,FT,Data Analyst,170000.00,USD,170000,US,100,US,M,Data Analysis
+329,2022,MI,Mid-level,FT,Data Analyst,115500.00,USD,115500,US,100,US,M,Data Analysis
+330,2022,SE,Senior-level,FT,Data Analyst,112900.00,USD,112900,US,100,US,M,Data Analysis
+331,2022,SE,Senior-level,FT,Data Analyst,90320.00,USD,90320,US,100,US,M,Data Analysis
+332,2022,SE,Senior-level,FT,Data Analyst,112900.00,USD,112900,US,100,US,M,Data Analysis
+333,2022,SE,Senior-level,FT,Data Analyst,90320.00,USD,90320,US,100,US,M,Data Analysis
+334,2022,SE,Senior-level,FT,Data Engineer,165400.00,USD,165400,US,100,US,M,Automation-Focused
+335,2022,SE,Senior-level,FT,Data Engineer,132320.00,USD,132320,US,100,US,M,Automation-Focused
+336,2022,MI,Mid-level,FT,Data Analyst,167000.00,USD,167000,US,100,US,M,Data Analysis
+337,2022,SE,Senior-level,FT,Data Engineer,243900.00,USD,243900,US,100,US,M,Automation-Focused
+338,2022,SE,Senior-level,FT,Data Analyst,136600.00,USD,136600,US,100,US,M,Data Analysis
+339,2022,SE,Senior-level,FT,Data Analyst,109280.00,USD,109280,US,100,US,M,Data Analysis
+340,2022,SE,Senior-level,FT,Data Engineer,128875.00,USD,128875,US,100,US,M,Automation-Focused
+341,2022,SE,Senior-level,FT,Data Engineer,93700.00,USD,93700,US,100,US,M,Automation-Focused
+342,2022,EX,Executive-level,FT,Head of Data Science,224000.00,USD,224000,US,100,US,M,Other
+343,2022,EX,Executive-level,FT,Head of Data Science,167875.00,USD,167875,US,100,US,M,Other
+344,2022,EX,Executive-level,FT,Analytics Engineer,175000.00,USD,175000,US,100,US,M,Other
+345,2022,SE,Senior-level,FT,Data Engineer,156600.00,USD,156600,US,100,US,M,Automation-Focused
+346,2022,SE,Senior-level,FT,Data Engineer,108800.00,USD,108800,US,0,US,M,Automation-Focused
+347,2022,SE,Senior-level,FT,Data Scientist,95550.00,USD,95550,US,0,US,M,Data Analysis
+348,2022,SE,Senior-level,FT,Data Engineer,113000.00,USD,113000,US,0,US,L,Automation-Focused
+349,2022,SE,Senior-level,FT,Data Analyst,135000.00,USD,135000,US,100,US,M,Data Analysis
+350,2022,SE,Senior-level,FT,Data Science Manager,161342.00,USD,161342,US,100,US,M,Other
+351,2022,SE,Senior-level,FT,Data Science Manager,137141.00,USD,137141,US,100,US,M,Other
+352,2022,SE,Senior-level,FT,Data Scientist,167000.00,USD,167000,US,100,US,M,Data Analysis
+353,2022,SE,Senior-level,FT,Data Scientist,123000.00,USD,123000,US,100,US,M,Data Analysis
+354,2022,SE,Senior-level,FT,Data Engineer,60000.00,GBP,78526,GB,0,GB,M,Automation-Focused
+355,2022,SE,Senior-level,FT,Data Engineer,50000.00,GBP,65438,GB,0,GB,M,Automation-Focused
+356,2022,SE,Senior-level,FT,Data Scientist,150000.00,USD,150000,US,0,US,M,Data Analysis
+357,2022,SE,Senior-level,FT,Data Scientist,211500.00,USD,211500,US,100,US,M,Data Analysis
+358,2022,SE,Senior-level,FT,Data Architect,192400.00,USD,192400,CA,100,CA,M,Other
+359,2022,SE,Senior-level,FT,Data Architect,90700.00,USD,90700,CA,100,CA,M,Other
+360,2022,SE,Senior-level,FT,Data Analyst,130000.00,USD,130000,CA,100,CA,M,Data Analysis
+361,2022,SE,Senior-level,FT,Data Analyst,61300.00,USD,61300,CA,100,CA,M,Data Analysis
+362,2022,SE,Senior-level,FT,Data Analyst,130000.00,USD,130000,CA,100,CA,M,Data Analysis
+363,2022,SE,Senior-level,FT,Data Analyst,61300.00,USD,61300,CA,100,CA,M,Data Analysis
+364,2022,SE,Senior-level,FT,Data Engineer,160000.00,USD,160000,US,0,US,L,Automation-Focused
+365,2022,SE,Senior-level,FT,Data Scientist,138600.00,USD,138600,US,100,US,M,Data Analysis
+366,2022,SE,Senior-level,FT,Data Engineer,136000.00,USD,136000,US,0,US,M,Automation-Focused
+367,2022,MI,Mid-level,FT,Data Analyst,58000.00,USD,58000,US,0,US,S,Data Analysis
+368,2022,EX,Executive-level,FT,Analytics Engineer,135000.00,USD,135000,US,100,US,M,Other
+369,2022,SE,Senior-level,FT,Data Scientist,170000.00,USD,170000,US,100,US,M,Data Analysis
+370,2022,SE,Senior-level,FT,Data Scientist,123000.00,USD,123000,US,100,US,M,Data Analysis
+371,2022,SE,Senior-level,FT,Machine Learning Engineer,189650.00,USD,189650,US,0,US,M,Automation-Focused
+372,2022,SE,Senior-level,FT,Machine Learning Engineer,164996.00,USD,164996,US,0,US,M,Automation-Focused
+373,2022,MI,Mid-level,FT,ETL Developer,50000.00,EUR,54957,GR,0,GR,M,Other
+374,2022,MI,Mid-level,FT,ETL Developer,50000.00,EUR,54957,GR,0,GR,M,Other
+375,2022,EX,Executive-level,FT,Lead Data Engineer,150000.00,CAD,118187,CA,100,CA,S,Automation-Focused
+376,2022,SE,Senior-level,FT,Data Analyst,132000.00,USD,132000,US,0,US,M,Data Analysis
+377,2022,SE,Senior-level,FT,Data Engineer,165400.00,USD,165400,US,100,US,M,Automation-Focused
+378,2022,SE,Senior-level,FT,Data Architect,208775.00,USD,208775,US,100,US,M,Other
+379,2022,SE,Senior-level,FT,Data Architect,147800.00,USD,147800,US,100,US,M,Other
+380,2022,SE,Senior-level,FT,Data Engineer,136994.00,USD,136994,US,100,US,M,Automation-Focused
+381,2022,SE,Senior-level,FT,Data Engineer,101570.00,USD,101570,US,100,US,M,Automation-Focused
+382,2022,SE,Senior-level,FT,Data Analyst,128875.00,USD,128875,US,100,US,M,Data Analysis
+383,2022,SE,Senior-level,FT,Data Analyst,93700.00,USD,93700,US,100,US,M,Data Analysis
+384,2022,EX,Executive-level,FT,Head of Machine Learning,6000000.00,INR,79039,IN,50,IN,L,Other
+385,2022,SE,Senior-level,FT,Data Engineer,132320.00,USD,132320,US,100,US,M,Automation-Focused
+386,2022,EN,Entry-level,FT,Machine Learning Engineer,28500.00,GBP,37300,GB,100,GB,L,Automation-Focused
+387,2022,SE,Senior-level,FT,Data Analyst,164000.00,USD,164000,US,0,US,M,Data Analysis
+388,2022,SE,Senior-level,FT,Data Engineer,155000.00,USD,155000,US,100,US,M,Automation-Focused
+389,2022,MI,Mid-level,FT,Machine Learning Engineer,95000.00,GBP,124333,GB,0,GB,M,Automation-Focused
+390,2022,MI,Mid-level,FT,Machine Learning Engineer,75000.00,GBP,98158,GB,0,GB,M,Automation-Focused
+391,2022,MI,Mid-level,FT,AI Scientist,120000.00,USD,120000,US,0,US,M,Other
+392,2022,SE,Senior-level,FT,Data Analyst,112900.00,USD,112900,US,100,US,M,Data Analysis
+393,2022,SE,Senior-level,FT,Data Analyst,90320.00,USD,90320,US,100,US,M,Data Analysis
+394,2022,SE,Senior-level,FT,Data Analytics Manager,145000.00,USD,145000,US,100,US,M,Other
+395,2022,SE,Senior-level,FT,Data Analytics Manager,105400.00,USD,105400,US,100,US,M,Other
+396,2022,MI,Mid-level,FT,Machine Learning Engineer,80000.00,EUR,87932,FR,100,DE,M,Automation-Focused
+397,2022,MI,Mid-level,FT,Data Engineer,90000.00,GBP,117789,GB,0,GB,M,Automation-Focused
+398,2022,SE,Senior-level,FT,Data Scientist,215300.00,USD,215300,US,100,US,L,Data Analysis
+399,2022,SE,Senior-level,FT,Data Scientist,158200.00,USD,158200,US,100,US,L,Data Analysis
+400,2022,SE,Senior-level,FT,Data Engineer,209100.00,USD,209100,US,100,US,L,Automation-Focused
+401,2022,SE,Senior-level,FT,Data Engineer,154600.00,USD,154600,US,100,US,L,Automation-Focused
+402,2022,SE,Senior-level,FT,Data Analyst,115934.00,USD,115934,US,0,US,M,Data Analysis
+403,2022,SE,Senior-level,FT,Data Analyst,81666.00,USD,81666,US,0,US,M,Data Analysis
+404,2022,SE,Senior-level,FT,Data Engineer,175000.00,USD,175000,US,100,US,M,Automation-Focused
+405,2022,MI,Mid-level,FT,Data Engineer,75000.00,GBP,98158,GB,0,GB,M,Automation-Focused
+406,2022,MI,Mid-level,FT,Data Analyst,58000.00,USD,58000,US,0,US,S,Data Analysis
+407,2022,SE,Senior-level,FT,Data Engineer,183600.00,USD,183600,US,100,US,L,Automation-Focused
+408,2022,MI,Mid-level,FT,Data Analyst,40000.00,GBP,52351,GB,100,GB,M,Data Analysis
+409,2022,SE,Senior-level,FT,Data Scientist,180000.00,USD,180000,US,100,US,M,Data Analysis
+410,2022,MI,Mid-level,FT,Data Scientist,55000.00,GBP,71982,GB,0,GB,M,Data Analysis
+411,2022,MI,Mid-level,FT,Data Scientist,35000.00,GBP,45807,GB,0,GB,M,Data Analysis
+412,2022,MI,Mid-level,FT,Data Engineer,60000.00,EUR,65949,GR,100,GR,M,Automation-Focused
+413,2022,MI,Mid-level,FT,Data Engineer,45000.00,EUR,49461,GR,100,GR,M,Automation-Focused
+414,2022,MI,Mid-level,FT,Data Engineer,60000.00,GBP,78526,GB,100,GB,M,Automation-Focused
+415,2022,MI,Mid-level,FT,Data Engineer,45000.00,GBP,58894,GB,100,GB,M,Automation-Focused
+416,2022,SE,Senior-level,FT,Data Scientist,260000.00,USD,260000,US,100,US,M,Data Analysis
+417,2022,SE,Senior-level,FT,Data Science Engineer,60000.00,USD,60000,AR,100,MX,L,Other
+418,2022,MI,Mid-level,FT,Data Engineer,63900.00,USD,63900,US,0,US,M,Automation-Focused
+419,2022,MI,Mid-level,FT,Machine Learning Scientist,160000.00,USD,160000,US,100,US,L,Other
+420,2022,MI,Mid-level,FT,Machine Learning Scientist,112300.00,USD,112300,US,100,US,L,Other
+421,2022,MI,Mid-level,FT,Data Science Manager,241000.00,USD,241000,US,100,US,M,Other
+422,2022,MI,Mid-level,FT,Data Science Manager,159000.00,USD,159000,US,100,US,M,Other
+423,2022,SE,Senior-level,FT,Data Scientist,180000.00,USD,180000,US,0,US,M,Data Analysis
+424,2022,SE,Senior-level,FT,Data Scientist,80000.00,USD,80000,US,0,US,M,Data Analysis
+425,2022,MI,Mid-level,FT,Data Engineer,82900.00,USD,82900,US,0,US,M,Automation-Focused
+426,2022,SE,Senior-level,FT,Data Engineer,100800.00,USD,100800,US,100,US,L,Automation-Focused
+427,2022,MI,Mid-level,FT,Data Engineer,45000.00,EUR,49461,ES,100,ES,M,Automation-Focused
+428,2022,SE,Senior-level,FT,Data Scientist,140400.00,USD,140400,US,0,US,L,Data Analysis
+429,2022,MI,Mid-level,FT,Data Analyst,30000.00,GBP,39263,GB,100,GB,M,Data Analysis
+430,2022,MI,Mid-level,FT,Data Analyst,40000.00,EUR,43966,ES,100,ES,M,Data Analysis
+431,2022,MI,Mid-level,FT,Data Analyst,30000.00,EUR,32974,ES,100,ES,M,Data Analysis
+432,2022,MI,Mid-level,FT,Data Engineer,80000.00,EUR,87932,ES,100,ES,M,Automation-Focused
+433,2022,MI,Mid-level,FT,Data Engineer,70000.00,EUR,76940,ES,100,ES,M,Automation-Focused
+434,2022,MI,Mid-level,FT,Data Engineer,80000.00,GBP,104702,GB,100,GB,M,Automation-Focused
+435,2022,MI,Mid-level,FT,Data Engineer,70000.00,GBP,91614,GB,100,GB,M,Automation-Focused
+436,2022,MI,Mid-level,FT,Data Engineer,60000.00,EUR,65949,ES,100,ES,M,Automation-Focused
+437,2022,MI,Mid-level,FT,Data Engineer,80000.00,EUR,87932,GR,100,GR,M,Automation-Focused
+438,2022,SE,Senior-level,FT,Machine Learning Engineer,189650.00,USD,189650,US,0,US,M,Automation-Focused
+439,2022,SE,Senior-level,FT,Machine Learning Engineer,164996.00,USD,164996,US,0,US,M,Automation-Focused
+440,2022,MI,Mid-level,FT,Data Analyst,40000.00,EUR,43966,GR,100,GR,M,Data Analysis
+441,2022,MI,Mid-level,FT,Data Analyst,30000.00,EUR,32974,GR,100,GR,M,Data Analysis
+442,2022,MI,Mid-level,FT,Data Engineer,75000.00,GBP,98158,GB,100,GB,M,Automation-Focused
+443,2022,MI,Mid-level,FT,Data Engineer,60000.00,GBP,78526,GB,100,GB,M,Automation-Focused
+444,2022,SE,Senior-level,FT,Data Scientist,215300.00,USD,215300,US,0,US,L,Data Analysis
+445,2022,MI,Mid-level,FT,Data Engineer,70000.00,EUR,76940,GR,100,GR,M,Automation-Focused
+446,2022,SE,Senior-level,FT,Data Engineer,209100.00,USD,209100,US,100,US,L,Automation-Focused
+447,2022,SE,Senior-level,FT,Data Engineer,154600.00,USD,154600,US,100,US,L,Automation-Focused
+448,2022,SE,Senior-level,FT,Data Engineer,180000.00,USD,180000,US,100,US,M,Automation-Focused
+449,2022,EN,Entry-level,FT,ML Engineer,20000.00,EUR,21983,PT,100,PT,L,Automation-Focused
+450,2022,SE,Senior-level,FT,Data Engineer,80000.00,USD,80000,US,100,US,M,Automation-Focused
+451,2022,MI,Mid-level,FT,Machine Learning Developer,100000.00,CAD,78791,CA,100,CA,M,Other
+452,2022,EX,Executive-level,FT,Director of Data Science,250000.00,CAD,196979,CA,50,CA,L,Other
+453,2022,MI,Mid-level,FT,Machine Learning Engineer,120000.00,USD,120000,US,100,US,S,Automation-Focused
+454,2022,EN,Entry-level,FT,Computer Vision Engineer,125000.00,USD,125000,US,0,US,M,Other
+455,2022,MI,Mid-level,FT,NLP Engineer,240000.00,CNY,37236,US,50,US,L,Other
+456,2022,SE,Senior-level,FT,Data Engineer,105000.00,USD,105000,US,100,US,M,Automation-Focused
+457,2022,SE,Senior-level,FT,Lead Machine Learning Engineer,80000.00,EUR,87932,DE,0,DE,M,Automation-Focused
+458,2022,MI,Mid-level,FT,Business Data Analyst,1400000.00,INR,18442,IN,100,IN,M,Data Analysis
+459,2022,MI,Mid-level,FT,Data Scientist,2400000.00,INR,31615,IN,100,IN,L,Data Analysis
+460,2022,MI,Mid-level,FT,Machine Learning Infrastructure Engineer,53000.00,EUR,58255,PT,50,PT,L,Other
+461,2022,EN,Entry-level,FT,Financial Data Analyst,100000.00,USD,100000,US,50,US,L,Data Analysis
+462,2022,MI,Mid-level,PT,Data Engineer,50000.00,EUR,54957,DE,50,DE,L,Automation-Focused
+463,2022,EN,Entry-level,FT,Data Scientist,1400000.00,INR,18442,IN,100,IN,M,Data Analysis
+464,2022,SE,Senior-level,FT,Principal Data Scientist,148000.00,EUR,162674,DE,100,DE,M,Data Analysis
+465,2022,EN,Entry-level,FT,Data Engineer,120000.00,USD,120000,US,100,US,M,Automation-Focused
+466,2022,SE,Senior-level,FT,Research Scientist,144000.00,USD,144000,US,50,US,L,Other
+467,2022,SE,Senior-level,FT,Data Scientist,104890.00,USD,104890,US,100,US,M,Data Analysis
+468,2022,SE,Senior-level,FT,Data Engineer,100000.00,USD,100000,US,100,US,M,Automation-Focused
+469,2022,SE,Senior-level,FT,Data Scientist,140000.00,USD,140000,US,100,US,M,Data Analysis
+470,2022,MI,Mid-level,FT,Data Analyst,135000.00,USD,135000,US,100,US,M,Data Analysis
+471,2022,MI,Mid-level,FT,Data Analyst,50000.00,USD,50000,US,100,US,M,Data Analysis
+472,2022,SE,Senior-level,FT,Data Scientist,220000.00,USD,220000,US,100,US,M,Data Analysis
+473,2022,SE,Senior-level,FT,Data Scientist,140000.00,USD,140000,US,100,US,M,Data Analysis
+474,2022,MI,Mid-level,FT,Data Scientist,140000.00,GBP,183228,GB,0,GB,M,Data Analysis
+475,2022,MI,Mid-level,FT,Data Scientist,70000.00,GBP,91614,GB,0,GB,M,Data Analysis
+476,2022,SE,Senior-level,FT,Data Scientist,185100.00,USD,185100,US,100,US,M,Data Analysis
+477,2022,SE,Senior-level,FT,Machine Learning Engineer,220000.00,USD,220000,US,100,US,M,Automation-Focused
+478,2022,MI,Mid-level,FT,Data Scientist,200000.00,USD,200000,US,100,US,M,Data Analysis
+479,2022,MI,Mid-level,FT,Data Scientist,120000.00,USD,120000,US,100,US,M,Data Analysis
+480,2022,SE,Senior-level,FT,Machine Learning Engineer,120000.00,USD,120000,AE,100,AE,S,Automation-Focused
+481,2022,SE,Senior-level,FT,Machine Learning Engineer,65000.00,USD,65000,AE,100,AE,S,Automation-Focused
+482,2022,EX,Executive-level,FT,Data Engineer,324000.00,USD,324000,US,100,US,M,Automation-Focused
+483,2022,EX,Executive-level,FT,Data Engineer,216000.00,USD,216000,US,100,US,M,Automation-Focused
+484,2022,SE,Senior-level,FT,Data Engineer,210000.00,USD,210000,US,100,US,M,Automation-Focused
+485,2022,SE,Senior-level,FT,Machine Learning Engineer,120000.00,USD,120000,US,100,US,M,Automation-Focused
+486,2022,SE,Senior-level,FT,Data Scientist,230000.00,USD,230000,US,100,US,M,Data Analysis
+487,2022,EN,Entry-level,PT,Data Scientist,100000.00,USD,100000,DZ,50,DZ,M,Data Analysis
+488,2022,MI,Mid-level,FL,Data Scientist,100000.00,USD,100000,CA,100,US,M,Data Analysis
+489,2022,EN,Entry-level,CT,Applied Machine Learning Scientist,29000.00,EUR,31875,TN,100,CZ,M,Other
+490,2022,SE,Senior-level,FT,Head of Data,200000.00,USD,200000,MY,100,US,M,Other
+491,2022,MI,Mid-level,FT,Principal Data Analyst,75000.00,USD,75000,CA,100,CA,S,Data Analysis
+492,2022,MI,Mid-level,FT,Data Scientist,150000.00,PLN,35590,PL,100,PL,L,Data Analysis
+493,2022,SE,Senior-level,FT,Machine Learning Developer,100000.00,CAD,78791,CA,100,CA,M,Other
+494,2022,SE,Senior-level,FT,Data Scientist,100000.00,USD,100000,BR,100,US,M,Data Analysis
+495,2022,MI,Mid-level,FT,Machine Learning Scientist,153000.00,USD,153000,US,50,US,M,Other
+496,2022,EN,Entry-level,FT,Data Engineer,52800.00,EUR,58035,PK,100,DE,M,Automation-Focused
+497,2022,SE,Senior-level,FT,Data Scientist,165000.00,USD,165000,US,100,US,M,Data Analysis
+498,2022,SE,Senior-level,FT,Research Scientist,85000.00,EUR,93427,FR,50,FR,L,Other
+499,2022,EN,Entry-level,FT,Data Scientist,66500.00,CAD,52396,CA,100,CA,L,Data Analysis
+500,2022,SE,Senior-level,FT,Machine Learning Engineer,57000.00,EUR,62651,NL,100,NL,L,Automation-Focused
+501,2022,MI,Mid-level,FT,Head of Data,30000.00,EUR,32974,EE,100,EE,S,Other
+502,2022,EN,Entry-level,FT,Data Scientist,40000.00,USD,40000,JP,100,MY,L,Data Analysis
+503,2022,MI,Mid-level,FT,Machine Learning Engineer,121000.00,AUD,87425,AU,100,AU,L,Automation-Focused
+504,2022,SE,Senior-level,FT,Data Engineer,115000.00,USD,115000,US,100,US,M,Automation-Focused
+505,2022,EN,Entry-level,FT,Data Scientist,120000.00,AUD,86703,AU,50,AU,M,Data Analysis
+506,2022,MI,Mid-level,FT,Applied Machine Learning Scientist,75000.00,USD,75000,BO,100,US,L,Other
+507,2022,MI,Mid-level,FT,Research Scientist,59000.00,EUR,64849,AT,0,AT,L,Other
+508,2022,EN,Entry-level,FT,Research Scientist,120000.00,USD,120000,US,100,US,L,Other
+509,2022,MI,Mid-level,FT,Applied Data Scientist,157000.00,USD,157000,US,100,US,L,Data Analysis
+510,2022,EN,Entry-level,FT,Computer Vision Software Engineer,150000.00,USD,150000,AU,100,AU,S,Other
+511,2022,MI,Mid-level,FT,Business Data Analyst,90000.00,CAD,70912,CA,50,CA,L,Data Analysis
+512,2022,EN,Entry-level,FT,Data Engineer,65000.00,USD,65000,US,100,US,S,Automation-Focused
+513,2022,SE,Senior-level,FT,Machine Learning Engineer,65000.00,EUR,71444,IE,100,IE,S,Automation-Focused
+514,2022,EN,Entry-level,FT,Data Analytics Engineer,20000.00,USD,20000,PK,0,PK,M,Other
+515,2022,MI,Mid-level,FT,Data Scientist,48000.00,USD,48000,RU,100,US,S,Data Analysis
+516,2022,SE,Senior-level,FT,Data Science Manager,152500.00,USD,152500,US,100,US,M,Other
+517,2022,MI,Mid-level,FT,Data Engineer,62000.00,EUR,68147,FR,100,FR,M,Automation-Focused
+518,2022,MI,Mid-level,FT,Data Scientist,115000.00,CHF,122346,CH,0,CH,L,Data Analysis
+519,2022,SE,Senior-level,FT,Applied Data Scientist,380000.00,USD,380000,US,100,US,L,Data Analysis
+520,2022,MI,Mid-level,FT,Data Scientist,88000.00,CAD,69336,CA,100,CA,M,Data Analysis
+521,2022,EN,Entry-level,FT,Computer Vision Engineer,10000.00,USD,10000,PT,100,LU,M,Other
+522,2022,MI,Mid-level,FT,Data Analyst,20000.00,USD,20000,GR,100,GR,S,Data Analysis
+523,2022,SE,Senior-level,FT,Data Analytics Lead,405000.00,USD,405000,US,100,US,L,Other
+524,2022,MI,Mid-level,FT,Data Scientist,135000.00,USD,135000,US,100,US,L,Data Analysis
+525,2022,SE,Senior-level,FT,Applied Data Scientist,177000.00,USD,177000,US,100,US,L,Data Analysis
+526,2022,MI,Mid-level,FT,Data Scientist,78000.00,USD,78000,US,100,US,M,Data Analysis
+527,2022,SE,Senior-level,FT,Data Analyst,135000.00,USD,135000,US,100,US,M,Data Analysis
+528,2022,SE,Senior-level,FT,Data Analyst,100000.00,USD,100000,US,100,US,M,Data Analysis
+529,2022,SE,Senior-level,FT,Data Analyst,90320.00,USD,90320,US,100,US,M,Data Analysis
+530,2022,MI,Mid-level,FT,Data Analyst,85000.00,USD,85000,CA,0,CA,M,Data Analysis
+531,2022,MI,Mid-level,FT,Data Analyst,75000.00,USD,75000,CA,0,CA,M,Data Analysis
+532,2022,SE,Senior-level,FT,Machine Learning Engineer,214000.00,USD,214000,US,100,US,M,Automation-Focused
+533,2022,SE,Senior-level,FT,Machine Learning Engineer,192600.00,USD,192600,US,100,US,M,Automation-Focused
+534,2022,SE,Senior-level,FT,Data Architect,266400.00,USD,266400,US,100,US,M,Other
+535,2022,SE,Senior-level,FT,Data Architect,213120.00,USD,213120,US,100,US,M,Other
+536,2022,SE,Senior-level,FT,Data Analyst,112900.00,USD,112900,US,100,US,M,Data Analysis
+537,2022,SE,Senior-level,FT,Data Engineer,155000.00,USD,155000,US,100,US,M,Automation-Focused
+538,2022,MI,Mid-level,FT,Data Scientist,141300.00,USD,141300,US,0,US,M,Data Analysis
+539,2022,MI,Mid-level,FT,Data Scientist,102100.00,USD,102100,US,0,US,M,Data Analysis
+540,2022,SE,Senior-level,FT,Data Analyst,115934.00,USD,115934,US,100,US,M,Data Analysis
+541,2022,SE,Senior-level,FT,Data Analyst,81666.00,USD,81666,US,100,US,M,Data Analysis
+542,2022,MI,Mid-level,FT,Data Engineer,206699.00,USD,206699,US,0,US,M,Automation-Focused
+543,2022,MI,Mid-level,FT,Data Engineer,99100.00,USD,99100,US,0,US,M,Automation-Focused
+544,2022,SE,Senior-level,FT,Data Engineer,130000.00,USD,130000,US,100,US,M,Automation-Focused
+545,2022,SE,Senior-level,FT,Data Engineer,115000.00,USD,115000,US,100,US,M,Automation-Focused
+546,2022,SE,Senior-level,FT,Data Engineer,110500.00,USD,110500,US,100,US,M,Automation-Focused
+547,2022,SE,Senior-level,FT,Data Engineer,130000.00,USD,130000,US,100,US,M,Automation-Focused
+548,2022,SE,Senior-level,FT,Data Analyst,99050.00,USD,99050,US,100,US,M,Data Analysis
+549,2022,SE,Senior-level,FT,Data Engineer,160000.00,USD,160000,US,100,US,M,Automation-Focused
+550,2022,SE,Senior-level,FT,Data Scientist,205300.00,USD,205300,US,0,US,L,Data Analysis
+551,2022,SE,Senior-level,FT,Data Scientist,140400.00,USD,140400,US,0,US,L,Data Analysis
+552,2022,SE,Senior-level,FT,Data Scientist,176000.00,USD,176000,US,100,US,M,Data Analysis
+553,2022,SE,Senior-level,FT,Data Scientist,144000.00,USD,144000,US,100,US,M,Data Analysis
+554,2022,SE,Senior-level,FT,Data Engineer,200100.00,USD,200100,US,100,US,M,Automation-Focused
+555,2022,SE,Senior-level,FT,Data Engineer,160000.00,USD,160000,US,100,US,M,Automation-Focused
+556,2022,SE,Senior-level,FT,Data Engineer,145000.00,USD,145000,US,100,US,M,Automation-Focused
+557,2022,SE,Senior-level,FT,Data Engineer,70500.00,USD,70500,US,0,US,M,Automation-Focused
+558,2022,SE,Senior-level,FT,Data Scientist,205300.00,USD,205300,US,0,US,M,Data Analysis
+559,2022,SE,Senior-level,FT,Data Scientist,140400.00,USD,140400,US,0,US,M,Data Analysis
+560,2022,SE,Senior-level,FT,Analytics Engineer,205300.00,USD,205300,US,0,US,M,Other
+561,2022,SE,Senior-level,FT,Analytics Engineer,184700.00,USD,184700,US,0,US,M,Other
+562,2022,SE,Senior-level,FT,Data Engineer,175100.00,USD,175100,US,100,US,M,Automation-Focused
+563,2022,SE,Senior-level,FT,Data Engineer,140250.00,USD,140250,US,100,US,M,Automation-Focused
+564,2022,SE,Senior-level,FT,Data Analyst,116150.00,USD,116150,US,100,US,M,Data Analysis
+565,2022,SE,Senior-level,FT,Data Engineer,54000.00,USD,54000,US,0,US,M,Automation-Focused
+566,2022,SE,Senior-level,FT,Data Analyst,170000.00,USD,170000,US,100,US,M,Data Analysis
+567,2022,MI,Mid-level,FT,Data Analyst,50000.00,GBP,65438,GB,0,GB,M,Data Analysis
+568,2022,SE,Senior-level,FT,Data Analyst,80000.00,USD,80000,US,100,US,M,Data Analysis
+569,2022,SE,Senior-level,FT,Data Scientist,140000.00,USD,140000,US,100,US,M,Data Analysis
+570,2022,SE,Senior-level,FT,Data Scientist,210000.00,USD,210000,US,100,US,M,Data Analysis
+571,2022,SE,Senior-level,FT,Data Scientist,140000.00,USD,140000,US,100,US,M,Data Analysis
+572,2022,SE,Senior-level,FT,Data Analyst,100000.00,USD,100000,US,100,US,M,Data Analysis
+573,2022,SE,Senior-level,FT,Data Analyst,69000.00,USD,69000,US,100,US,M,Data Analysis
+574,2022,SE,Senior-level,FT,Data Scientist,210000.00,USD,210000,US,100,US,M,Data Analysis
+575,2022,SE,Senior-level,FT,Data Scientist,140000.00,USD,140000,US,100,US,M,Data Analysis
+576,2022,SE,Senior-level,FT,Data Scientist,210000.00,USD,210000,US,100,US,M,Data Analysis
+577,2022,SE,Senior-level,FT,Data Analyst,150075.00,USD,150075,US,100,US,M,Data Analysis
+578,2022,SE,Senior-level,FT,Data Engineer,100000.00,USD,100000,US,100,US,M,Automation-Focused
+579,2022,SE,Senior-level,FT,Data Engineer,25000.00,USD,25000,US,100,US,M,Automation-Focused
+580,2022,SE,Senior-level,FT,Data Analyst,126500.00,USD,126500,US,100,US,M,Data Analysis
+581,2022,SE,Senior-level,FT,Data Analyst,106260.00,USD,106260,US,100,US,M,Data Analysis
+582,2022,SE,Senior-level,FT,Data Engineer,220110.00,USD,220110,US,100,US,M,Automation-Focused
+583,2022,SE,Senior-level,FT,Data Engineer,160080.00,USD,160080,US,100,US,M,Automation-Focused
+584,2022,SE,Senior-level,FT,Data Analyst,105000.00,USD,105000,US,100,US,M,Data Analysis
+585,2022,SE,Senior-level,FT,Data Analyst,110925.00,USD,110925,US,100,US,M,Data Analysis
+586,2022,MI,Mid-level,FT,Data Analyst,35000.00,GBP,45807,GB,0,GB,M,Data Analysis
+587,2022,SE,Senior-level,FT,Data Scientist,140000.00,USD,140000,US,100,US,M,Data Analysis
+588,2022,SE,Senior-level,FT,Data Analyst,99000.00,USD,99000,US,0,US,M,Data Analysis
+589,2022,SE,Senior-level,FT,Data Analyst,60000.00,USD,60000,US,100,US,M,Data Analysis
+590,2022,SE,Senior-level,FT,Data Architect,192564.00,USD,192564,US,100,US,M,Other
+591,2022,SE,Senior-level,FT,Data Architect,144854.00,USD,144854,US,100,US,M,Other
+592,2022,SE,Senior-level,FT,Data Scientist,230000.00,USD,230000,US,100,US,M,Data Analysis
+593,2022,SE,Senior-level,FT,Data Scientist,150000.00,USD,150000,US,100,US,M,Data Analysis
+594,2022,SE,Senior-level,FT,Data Analytics Manager,150260.00,USD,150260,US,100,US,M,Other
+595,2022,SE,Senior-level,FT,Data Analytics Manager,109280.00,USD,109280,US,100,US,M,Other
+596,2022,SE,Senior-level,FT,Data Scientist,210000.00,USD,210000,US,100,US,M,Data Analysis
+597,2022,SE,Senior-level,FT,Data Analyst,170000.00,USD,170000,US,100,US,M,Data Analysis
+598,2022,MI,Mid-level,FT,Data Scientist,160000.00,USD,160000,US,100,US,M,Data Analysis
+599,2022,MI,Mid-level,FT,Data Scientist,130000.00,USD,130000,US,100,US,M,Data Analysis
+600,2022,EN,Entry-level,FT,Data Analyst,67000.00,USD,67000,CA,0,CA,M,Data Analysis
+601,2022,EN,Entry-level,FT,Data Analyst,52000.00,USD,52000,CA,0,CA,M,Data Analysis
+602,2022,SE,Senior-level,FT,Data Engineer,154000.00,USD,154000,US,100,US,M,Automation-Focused
+603,2022,SE,Senior-level,FT,Data Engineer,126000.00,USD,126000,US,100,US,M,Automation-Focused
+604,2022,SE,Senior-level,FT,Data Analyst,129000.00,USD,129000,US,0,US,M,Data Analysis
+605,2022,SE,Senior-level,FT,Data Analyst,150000.00,USD,150000,US,100,US,M,Data Analysis
+606,2022,MI,Mid-level,FT,AI Scientist,200000.00,USD,200000,IN,100,US,L,Other

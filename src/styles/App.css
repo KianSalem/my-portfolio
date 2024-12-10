@@ -1,0 +1,15 @@
+/* src/styles/App.css */
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.app > .navbar,
+.app > .footer {
+  flex-shrink: 0;
+}
+
+.app > .main-content {
+  flex: 1;
+}
