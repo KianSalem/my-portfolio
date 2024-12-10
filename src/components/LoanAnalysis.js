@@ -57,6 +57,7 @@ function LoanAnalysis() {
       <Link to="/edm-analysis">
         <button className="cta-button">Go to EDM Analysis</button>
       </Link>
+      <canvas className="background"></canvas>
     </div>
   );
 }

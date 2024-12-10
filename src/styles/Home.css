@@ -1,50 +1,72 @@
 /* src/styles/Home.css */
 .home {
-  /* Remove fixed height */
-  /* height: calc(100vh - 80px); */
-  flex: 1; /* Allow the home section to take up remaining space */
+  flex: 1;
   display: flex;
   align-items: center;
   justify-content: center;
   color: #FFFFFF;
-  position: relative; /* For background video positioning */
-  overflow: hidden; /* Prevent overflow from child elements */
+  position: relative;
+  overflow: hidden;
+  padding: 20px;
+  box-sizing: border-box;
 }
-  
-  .home-content {
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.6);
-    padding: 50px;
-    border-radius: 10px;
-    font-family: system-ui;
-  }
-  
-  .home h1 {
-    font-size: 3rem;
-    margin-bottom: 20px;
-  }
-  
-  .home p {
-    font-size: 1.2rem;
-    margin-bottom: 30px;
-  }
-  
-  .home-buttons .btn {
-    margin: 0 10px;
-    padding: 15px 30px;
-    background-color: #3035f7;
-    color: #ffffff;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 5px;
-  }
-  
-  .home-buttons .btn:hover {
-    background-color: #030f87;
-  }  
 
-  /* #FFD700;
-  #FFC300;
-  030f87
-  3035f7
-  */
+.home-content {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  border-radius: 10px;
+  font-family: system-ui;
+  max-width: 600px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.home h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+/* Adjusted the buttons container */
+.home-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.home-buttons .btn {
+  padding: 15px 30px;
+  background-color: #3035f7;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.home-buttons .btn:hover {
+  background-color: #030f87;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .home h1 {
+    font-size: 2rem;
+  }
+
+  .home p {
+    font-size: 1rem;
+  }
+
+  .home-buttons .btn {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+}
